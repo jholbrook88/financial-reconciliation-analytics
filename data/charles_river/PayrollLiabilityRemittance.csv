@@ -1,0 +1,232 @@
+PayrollLiabilityRemittanceID,PayrollPeriodID,LiabilityType,RemittanceDate,Amount,AgencyOrVendor,ReferenceNumber,ClearedDate,ApprovedByEmployeeID
+1,1,Employee Tax Withholding,2024-01-26,16841.58,Federal and State Tax Agencies,PLR-2024-000001,2024-01-29,5
+2,1,Employer Payroll Tax,2024-01-29,9603.91,Payroll Tax Agencies,PLR-2024-000002,2024-01-30,5
+3,1,Benefits and Other Deductions,2024-01-31,11852.88,Benefits and Deductions Clearinghouse,PLR-2024-000003,2024-02-01,5
+4,2,Employee Tax Withholding,2024-02-09,35883.27,Federal and State Tax Agencies,PLR-2024-000002,2024-02-12,5
+5,2,Employer Payroll Tax,2024-02-12,20279.03,Payroll Tax Agencies,PLR-2024-000003,2024-02-13,5
+6,2,Benefits and Other Deductions,2024-02-14,25712.76,Benefits and Deductions Clearinghouse,PLR-2024-000004,2024-02-15,5
+7,3,Employee Tax Withholding,2024-02-23,29576.8,Federal and State Tax Agencies,PLR-2024-000003,2024-02-26,5
+8,3,Employer Payroll Tax,2024-02-26,16766.24,Payroll Tax Agencies,PLR-2024-000004,2024-02-27,5
+9,3,Benefits and Other Deductions,2024-02-28,21164.52,Benefits and Deductions Clearinghouse,PLR-2024-000005,2024-02-29,5
+10,4,Employee Tax Withholding,2024-03-08,29564.64,Federal and State Tax Agencies,PLR-2024-000004,2024-03-11,5
+11,4,Employer Payroll Tax,2024-03-11,16761.48,Payroll Tax Agencies,PLR-2024-000005,2024-03-12,5
+12,4,Benefits and Other Deductions,2024-03-13,21158.85,Benefits and Deductions Clearinghouse,PLR-2024-000006,2024-03-14,5
+13,5,Employee Tax Withholding,2024-03-22,29183.38,Federal and State Tax Agencies,PLR-2024-000005,2024-03-25,5
+14,5,Employer Payroll Tax,2024-03-25,16551.5,Payroll Tax Agencies,PLR-2024-000006,2024-03-26,5
+15,5,Benefits and Other Deductions,2024-03-27,20958.67,Benefits and Deductions Clearinghouse,PLR-2024-000007,2024-03-28,5
+16,6,Employee Tax Withholding,2024-04-05,30428.77,Federal and State Tax Agencies,PLR-2024-000006,2024-04-08,5
+17,6,Employer Payroll Tax,2024-04-08,17262.88,Payroll Tax Agencies,PLR-2024-000007,2024-04-09,5
+18,6,Benefits and Other Deductions,2024-04-10,21790.64,Benefits and Deductions Clearinghouse,PLR-2024-000008,2024-04-11,5
+19,7,Employee Tax Withholding,2024-04-19,30494.51,Federal and State Tax Agencies,PLR-2024-000007,2024-04-22,5
+20,7,Employer Payroll Tax,2024-04-22,17253.28,Payroll Tax Agencies,PLR-2024-000008,2024-04-23,5
+21,7,Benefits and Other Deductions,2024-04-24,21687.19,Benefits and Deductions Clearinghouse,PLR-2024-000009,2024-04-25,5
+22,8,Employee Tax Withholding,2024-05-03,29994.09,Federal and State Tax Agencies,PLR-2024-000008,2024-05-06,5
+23,8,Employer Payroll Tax,2024-05-06,17013.58,Payroll Tax Agencies,PLR-2024-000009,2024-05-07,5
+24,8,Benefits and Other Deductions,2024-05-08,21495.23,Benefits and Deductions Clearinghouse,PLR-2024-000010,2024-05-09,5
+25,9,Employee Tax Withholding,2024-05-17,30516.68,Federal and State Tax Agencies,PLR-2024-000009,2024-05-20,5
+26,9,Employer Payroll Tax,2024-05-20,17280.14,Payroll Tax Agencies,PLR-2024-000010,2024-05-21,5
+27,9,Benefits and Other Deductions,2024-05-22,21820.19,Benefits and Deductions Clearinghouse,PLR-2024-000011,2024-05-23,5
+28,10,Employee Tax Withholding,2024-05-31,27405.65,Federal and State Tax Agencies,PLR-2024-000010,2024-06-03,5
+29,10,Employer Payroll Tax,2024-06-03,15544.56,Payroll Tax Agencies,PLR-2024-000011,2024-06-04,5
+30,10,Benefits and Other Deductions,2024-06-05,19512.55,Benefits and Deductions Clearinghouse,PLR-2024-000012,2024-06-06,5
+31,11,Employee Tax Withholding,2024-06-14,29428.13,Federal and State Tax Agencies,PLR-2024-000011,2024-06-17,5
+32,11,Employer Payroll Tax,2024-06-17,16725.58,Payroll Tax Agencies,PLR-2024-000012,2024-06-18,5
+33,11,Benefits and Other Deductions,2024-06-19,21200.13,Benefits and Deductions Clearinghouse,PLR-2024-000013,2024-06-20,5
+34,12,Employee Tax Withholding,2024-06-28,29617.47,Federal and State Tax Agencies,PLR-2024-000012,2024-07-01,5
+35,12,Employer Payroll Tax,2024-07-01,16841.74,Payroll Tax Agencies,PLR-2024-000013,2024-07-02,5
+36,12,Benefits and Other Deductions,2024-07-03,21184.85,Benefits and Deductions Clearinghouse,PLR-2024-000014,2024-07-04,5
+37,13,Employee Tax Withholding,2024-07-12,29090.07,Federal and State Tax Agencies,PLR-2024-000013,2024-07-15,5
+38,13,Employer Payroll Tax,2024-07-15,16567.56,Payroll Tax Agencies,PLR-2024-000014,2024-07-16,5
+39,13,Benefits and Other Deductions,2024-07-17,20850.72,Benefits and Deductions Clearinghouse,PLR-2024-000015,2024-07-18,5
+40,14,Employee Tax Withholding,2024-07-26,29191.59,Federal and State Tax Agencies,PLR-2024-000014,2024-07-29,5
+41,14,Employer Payroll Tax,2024-07-29,16563.53,Payroll Tax Agencies,PLR-2024-000015,2024-07-30,5
+42,14,Benefits and Other Deductions,2024-07-31,20899.36,Benefits and Deductions Clearinghouse,PLR-2024-000016,2024-08-01,5
+43,15,Employee Tax Withholding,2024-08-09,31117.15,Federal and State Tax Agencies,PLR-2024-000015,2024-08-12,5
+44,15,Employer Payroll Tax,2024-08-12,17654.21,Payroll Tax Agencies,PLR-2024-000016,2024-08-13,5
+45,15,Benefits and Other Deductions,2024-08-14,22152.38,Benefits and Deductions Clearinghouse,PLR-2024-000017,2024-08-15,5
+46,16,Employee Tax Withholding,2024-08-23,32923.86,Federal and State Tax Agencies,PLR-2024-000016,2024-08-26,5
+47,16,Employer Payroll Tax,2024-08-26,18658.03,Payroll Tax Agencies,PLR-2024-000017,2024-08-27,5
+48,16,Benefits and Other Deductions,2024-08-28,23561.51,Benefits and Deductions Clearinghouse,PLR-2024-000018,2024-08-29,5
+49,17,Employee Tax Withholding,2024-09-06,30306.91,Federal and State Tax Agencies,PLR-2024-000017,2024-09-09,5
+50,17,Employer Payroll Tax,2024-09-09,17161.73,Payroll Tax Agencies,PLR-2024-000018,2024-09-10,5
+51,17,Benefits and Other Deductions,2024-09-11,21552.11,Benefits and Deductions Clearinghouse,PLR-2024-000019,2024-09-12,5
+52,18,Employee Tax Withholding,2024-09-20,30801.6,Federal and State Tax Agencies,PLR-2024-000018,2024-09-23,5
+53,18,Employer Payroll Tax,2024-09-23,17442.46,Payroll Tax Agencies,PLR-2024-000019,2024-09-24,5
+54,18,Benefits and Other Deductions,2024-09-25,21983.88,Benefits and Deductions Clearinghouse,PLR-2024-000020,2024-09-26,5
+55,19,Employee Tax Withholding,2024-10-04,27416.25,Federal and State Tax Agencies,PLR-2024-000019,2024-10-07,5
+56,19,Employer Payroll Tax,2024-10-07,15606.11,Payroll Tax Agencies,PLR-2024-000020,2024-10-08,5
+57,19,Benefits and Other Deductions,2024-10-09,19676.22,Benefits and Deductions Clearinghouse,PLR-2024-000021,2024-10-10,5
+58,20,Employee Tax Withholding,2024-10-18,33591.95,Federal and State Tax Agencies,PLR-2024-000020,2024-10-21,5
+59,20,Employer Payroll Tax,2024-10-21,18996.66,Payroll Tax Agencies,PLR-2024-000021,2024-10-22,5
+60,20,Benefits and Other Deductions,2024-10-23,23979.78,Benefits and Deductions Clearinghouse,PLR-2024-000022,2024-10-24,5
+61,21,Employee Tax Withholding,2024-11-01,26420.16,Federal and State Tax Agencies,PLR-2024-000021,2024-11-04,5
+62,21,Employer Payroll Tax,2024-11-04,15024.56,Payroll Tax Agencies,PLR-2024-000022,2024-11-05,5
+63,21,Benefits and Other Deductions,2024-11-06,18908.48,Benefits and Deductions Clearinghouse,PLR-2024-000023,2024-11-07,5
+64,22,Employee Tax Withholding,2024-11-15,30125.67,Federal and State Tax Agencies,PLR-2024-000022,2024-11-18,5
+65,22,Employer Payroll Tax,2024-11-18,17087.12,Payroll Tax Agencies,PLR-2024-000023,2024-11-19,5
+66,22,Benefits and Other Deductions,2024-11-20,21579.4,Benefits and Deductions Clearinghouse,PLR-2024-000024,2024-11-21,5
+67,23,Employee Tax Withholding,2024-11-29,29283.55,Federal and State Tax Agencies,PLR-2024-000023,2024-12-02,5
+68,23,Employer Payroll Tax,2024-12-02,16612.62,Payroll Tax Agencies,PLR-2024-000024,2024-12-03,5
+69,23,Benefits and Other Deductions,2024-12-04,21020.06,Benefits and Deductions Clearinghouse,PLR-2024-000025,2024-12-05,5
+70,24,Employee Tax Withholding,2024-12-13,32210.66,Federal and State Tax Agencies,PLR-2024-000024,2024-12-16,5
+71,24,Employer Payroll Tax,2024-12-16,18249.08,Payroll Tax Agencies,PLR-2024-000025,2024-12-17,5
+72,24,Benefits and Other Deductions,2024-12-18,23049.89,Benefits and Deductions Clearinghouse,PLR-2024-000026,2024-12-19,5
+73,25,Employee Tax Withholding,2024-12-27,29297.28,Federal and State Tax Agencies,PLR-2024-000025,2024-12-30,5
+74,25,Employer Payroll Tax,2024-12-30,16565.36,Payroll Tax Agencies,PLR-2024-000026,2024-12-31,5
+75,25,Benefits and Other Deductions,2025-01-01,20773.86,Benefits and Deductions Clearinghouse,PLR-2025-000027,2025-01-02,5
+76,26,Employee Tax Withholding,2025-01-10,28706.41,Federal and State Tax Agencies,PLR-2025-000026,2025-01-13,5
+77,26,Employer Payroll Tax,2025-01-13,16271.54,Payroll Tax Agencies,PLR-2025-000027,2025-01-14,5
+78,26,Benefits and Other Deductions,2025-01-15,20562.81,Benefits and Deductions Clearinghouse,PLR-2025-000028,2025-01-16,5
+79,27,Employee Tax Withholding,2025-01-24,32245.45,Federal and State Tax Agencies,PLR-2025-000027,2025-01-27,5
+80,27,Employer Payroll Tax,2025-01-27,18262.76,Payroll Tax Agencies,PLR-2025-000028,2025-01-28,5
+81,27,Benefits and Other Deductions,2025-01-29,23067.23,Benefits and Deductions Clearinghouse,PLR-2025-000029,2025-01-30,5
+82,28,Employee Tax Withholding,2025-02-07,30024.47,Federal and State Tax Agencies,PLR-2025-000028,2025-02-10,5
+83,28,Employer Payroll Tax,2025-02-10,17045.86,Payroll Tax Agencies,PLR-2025-000029,2025-02-11,5
+84,28,Benefits and Other Deductions,2025-02-12,21465.58,Benefits and Deductions Clearinghouse,PLR-2025-000030,2025-02-13,5
+85,29,Employee Tax Withholding,2025-02-21,36440.24,Federal and State Tax Agencies,PLR-2025-000029,2025-02-24,5
+86,29,Employer Payroll Tax,2025-02-24,20612.91,Payroll Tax Agencies,PLR-2025-000030,2025-02-25,5
+87,29,Benefits and Other Deductions,2025-02-26,26139.96,Benefits and Deductions Clearinghouse,PLR-2025-000031,2025-02-27,5
+88,30,Employee Tax Withholding,2025-03-07,30129.06,Federal and State Tax Agencies,PLR-2025-000030,2025-03-10,5
+89,30,Employer Payroll Tax,2025-03-10,17077.78,Payroll Tax Agencies,PLR-2025-000031,2025-03-11,5
+90,30,Benefits and Other Deductions,2025-03-12,21576.46,Benefits and Deductions Clearinghouse,PLR-2025-000032,2025-03-13,5
+91,31,Employee Tax Withholding,2025-03-21,35691.56,Federal and State Tax Agencies,PLR-2025-000031,2025-03-24,5
+92,31,Employer Payroll Tax,2025-03-24,20199.16,Payroll Tax Agencies,PLR-2025-000032,2025-03-25,5
+93,31,Benefits and Other Deductions,2025-03-26,25613.47,Benefits and Deductions Clearinghouse,PLR-2025-000033,2025-03-27,5
+94,32,Employee Tax Withholding,2025-04-04,27372.48,Federal and State Tax Agencies,PLR-2025-000032,2025-04-07,5
+95,32,Employer Payroll Tax,2025-04-07,15552.77,Payroll Tax Agencies,PLR-2025-000033,2025-04-08,5
+96,32,Benefits and Other Deductions,2025-04-09,19657.52,Benefits and Deductions Clearinghouse,PLR-2025-000034,2025-04-10,5
+97,33,Employee Tax Withholding,2025-04-18,35738.05,Federal and State Tax Agencies,PLR-2025-000033,2025-04-21,5
+98,33,Employer Payroll Tax,2025-04-21,20159.74,Payroll Tax Agencies,PLR-2025-000034,2025-04-22,5
+99,33,Benefits and Other Deductions,2025-04-23,25509.07,Benefits and Deductions Clearinghouse,PLR-2025-000035,2025-04-24,5
+100,34,Employee Tax Withholding,2025-05-02,28146.8,Federal and State Tax Agencies,PLR-2025-000034,2025-05-05,5
+101,34,Employer Payroll Tax,2025-05-05,15950.71,Payroll Tax Agencies,PLR-2025-000035,2025-05-06,5
+102,34,Benefits and Other Deductions,2025-05-07,20190.32,Benefits and Deductions Clearinghouse,PLR-2025-000036,2025-05-08,5
+103,35,Employee Tax Withholding,2025-05-16,29684.97,Federal and State Tax Agencies,PLR-2025-000035,2025-05-19,5
+104,35,Employer Payroll Tax,2025-05-19,16786.74,Payroll Tax Agencies,PLR-2025-000036,2025-05-20,5
+105,35,Benefits and Other Deductions,2025-05-21,21151.28,Benefits and Deductions Clearinghouse,PLR-2025-000037,2025-05-22,5
+106,36,Employee Tax Withholding,2025-05-30,28956.48,Federal and State Tax Agencies,PLR-2025-000036,2025-06-02,5
+107,36,Employer Payroll Tax,2025-06-02,16356.97,Payroll Tax Agencies,PLR-2025-000037,2025-06-03,5
+108,36,Benefits and Other Deductions,2025-06-04,20669.24,Benefits and Deductions Clearinghouse,PLR-2025-000038,2025-06-05,5
+109,37,Employee Tax Withholding,2025-06-13,33153.31,Federal and State Tax Agencies,PLR-2025-000037,2025-06-16,5
+110,37,Employer Payroll Tax,2025-06-16,18704.58,Payroll Tax Agencies,PLR-2025-000038,2025-06-17,5
+111,37,Benefits and Other Deductions,2025-06-18,23701.88,Benefits and Deductions Clearinghouse,PLR-2025-000039,2025-06-19,5
+112,38,Employee Tax Withholding,2025-06-27,28204.42,Federal and State Tax Agencies,PLR-2025-000038,2025-06-30,5
+113,38,Employer Payroll Tax,2025-06-30,15965.64,Payroll Tax Agencies,PLR-2025-000039,2025-07-01,5
+114,38,Benefits and Other Deductions,2025-07-02,20179.58,Benefits and Deductions Clearinghouse,PLR-2025-000040,2025-07-03,5
+115,39,Employee Tax Withholding,2025-07-11,30544.11,Federal and State Tax Agencies,PLR-2025-000039,2025-07-14,5
+116,39,Employer Payroll Tax,2025-07-14,17245.57,Payroll Tax Agencies,PLR-2025-000040,2025-07-15,5
+117,39,Benefits and Other Deductions,2025-07-16,21810.44,Benefits and Deductions Clearinghouse,PLR-2025-000041,2025-07-17,5
+118,40,Employee Tax Withholding,2025-07-25,32531.56,Federal and State Tax Agencies,PLR-2025-000040,2025-07-28,5
+119,40,Employer Payroll Tax,2025-07-28,18344.0,Payroll Tax Agencies,PLR-2025-000041,2025-07-29,5
+120,40,Benefits and Other Deductions,2025-07-30,23174.77,Benefits and Deductions Clearinghouse,PLR-2025-000042,2025-07-31,5
+121,41,Employee Tax Withholding,2025-08-08,29961.18,Federal and State Tax Agencies,PLR-2025-000041,2025-08-11,5
+122,41,Employer Payroll Tax,2025-08-11,16911.1,Payroll Tax Agencies,PLR-2025-000042,2025-08-12,5
+123,41,Benefits and Other Deductions,2025-08-13,21278.78,Benefits and Deductions Clearinghouse,PLR-2025-000043,2025-08-14,5
+124,42,Employee Tax Withholding,2025-08-22,37440.91,Federal and State Tax Agencies,PLR-2025-000042,2025-08-25,5
+125,42,Employer Payroll Tax,2025-08-25,21124.44,Payroll Tax Agencies,PLR-2025-000043,2025-08-26,5
+126,42,Benefits and Other Deductions,2025-08-27,26775.38,Benefits and Deductions Clearinghouse,PLR-2025-000044,2025-08-28,5
+127,43,Employee Tax Withholding,2025-09-05,32198.61,Federal and State Tax Agencies,PLR-2025-000043,2025-09-08,5
+128,43,Employer Payroll Tax,2025-09-08,18153.62,Payroll Tax Agencies,PLR-2025-000044,2025-09-09,5
+129,43,Benefits and Other Deductions,2025-09-10,22897.88,Benefits and Deductions Clearinghouse,PLR-2025-000045,2025-09-11,5
+130,44,Employee Tax Withholding,2025-09-19,33061.63,Federal and State Tax Agencies,PLR-2025-000044,2025-09-22,5
+131,44,Employer Payroll Tax,2025-09-22,18629.5,Payroll Tax Agencies,PLR-2025-000045,2025-09-23,5
+132,44,Benefits and Other Deductions,2025-09-24,23474.58,Benefits and Deductions Clearinghouse,PLR-2025-000046,2025-09-25,5
+133,45,Employee Tax Withholding,2025-10-03,27873.96,Federal and State Tax Agencies,PLR-2025-000045,2025-10-06,5
+134,45,Employer Payroll Tax,2025-10-06,15725.4,Payroll Tax Agencies,PLR-2025-000046,2025-10-07,5
+135,45,Benefits and Other Deductions,2025-10-08,19729.28,Benefits and Deductions Clearinghouse,PLR-2025-000047,2025-10-09,5
+136,46,Employee Tax Withholding,2025-10-17,38437.12,Federal and State Tax Agencies,PLR-2025-000046,2025-10-20,5
+137,46,Employer Payroll Tax,2025-10-20,21693.89,Payroll Tax Agencies,PLR-2025-000047,2025-10-21,5
+138,46,Benefits and Other Deductions,2025-10-22,27513.14,Benefits and Deductions Clearinghouse,PLR-2025-000048,2025-10-23,5
+139,47,Employee Tax Withholding,2025-10-31,27750.39,Federal and State Tax Agencies,PLR-2025-000047,2025-11-03,5
+140,47,Employer Payroll Tax,2025-11-03,15696.08,Payroll Tax Agencies,PLR-2025-000048,2025-11-04,5
+141,47,Benefits and Other Deductions,2025-11-05,19725.13,Benefits and Deductions Clearinghouse,PLR-2025-000049,2025-11-06,5
+142,48,Employee Tax Withholding,2025-11-14,34619.25,Federal and State Tax Agencies,PLR-2025-000048,2025-11-17,5
+143,48,Employer Payroll Tax,2025-11-17,19543.63,Payroll Tax Agencies,PLR-2025-000049,2025-11-18,5
+144,48,Benefits and Other Deductions,2025-11-19,24736.08,Benefits and Deductions Clearinghouse,PLR-2025-000050,2025-11-20,5
+145,49,Employee Tax Withholding,2025-11-28,28861.78,Federal and State Tax Agencies,PLR-2025-000049,2025-12-01,5
+146,49,Employer Payroll Tax,2025-12-01,16373.16,Payroll Tax Agencies,PLR-2025-000050,2025-12-02,5
+147,49,Benefits and Other Deductions,2025-12-03,20613.67,Benefits and Deductions Clearinghouse,PLR-2025-000051,2025-12-04,5
+148,50,Employee Tax Withholding,2025-12-12,28154.03,Federal and State Tax Agencies,PLR-2025-000050,2025-12-15,5
+149,50,Employer Payroll Tax,2025-12-15,15945.54,Payroll Tax Agencies,PLR-2025-000051,2025-12-16,5
+150,50,Benefits and Other Deductions,2025-12-17,20128.03,Benefits and Deductions Clearinghouse,PLR-2025-000052,2025-12-18,5
+151,51,Employee Tax Withholding,2025-12-26,38496.72,Federal and State Tax Agencies,PLR-2025-000051,2025-12-29,5
+152,51,Employer Payroll Tax,2025-12-29,21737.02,Payroll Tax Agencies,PLR-2025-000052,2025-12-30,5
+153,51,Benefits and Other Deductions,2025-12-31,27551.81,Benefits and Deductions Clearinghouse,PLR-2025-000053,2026-01-01,5
+154,52,Employee Tax Withholding,2026-01-09,31368.62,Federal and State Tax Agencies,PLR-2026-000052,2026-01-12,5
+155,52,Employer Payroll Tax,2026-01-12,17701.75,Payroll Tax Agencies,PLR-2026-000053,2026-01-13,5
+156,52,Benefits and Other Deductions,2026-01-14,22300.99,Benefits and Deductions Clearinghouse,PLR-2026-000054,2026-01-15,5
+157,53,Employee Tax Withholding,2026-01-23,36588.53,Federal and State Tax Agencies,PLR-2026-000053,2026-01-26,5
+158,53,Employer Payroll Tax,2026-01-26,20658.13,Payroll Tax Agencies,PLR-2026-000054,2026-01-27,5
+159,53,Benefits and Other Deductions,2026-01-28,26083.16,Benefits and Deductions Clearinghouse,PLR-2026-000055,2026-01-29,5
+160,54,Employee Tax Withholding,2026-02-06,32824.29,Federal and State Tax Agencies,PLR-2026-000054,2026-02-09,5
+161,54,Employer Payroll Tax,2026-02-09,18554.77,Payroll Tax Agencies,PLR-2026-000055,2026-02-10,5
+162,54,Benefits and Other Deductions,2026-02-11,23460.39,Benefits and Deductions Clearinghouse,PLR-2026-000056,2026-02-12,5
+163,55,Employee Tax Withholding,2026-02-20,37836.74,Federal and State Tax Agencies,PLR-2026-000055,2026-02-23,5
+164,55,Employer Payroll Tax,2026-02-23,21380.29,Payroll Tax Agencies,PLR-2026-000056,2026-02-24,5
+165,55,Benefits and Other Deductions,2026-02-25,27032.61,Benefits and Deductions Clearinghouse,PLR-2026-000057,2026-02-26,5
+166,56,Employee Tax Withholding,2026-03-06,29784.01,Federal and State Tax Agencies,PLR-2026-000056,2026-03-09,5
+167,56,Employer Payroll Tax,2026-03-09,16840.73,Payroll Tax Agencies,PLR-2026-000057,2026-03-10,5
+168,56,Benefits and Other Deductions,2026-03-11,20994.23,Benefits and Deductions Clearinghouse,PLR-2026-000058,2026-03-12,5
+169,57,Employee Tax Withholding,2026-03-20,37872.58,Federal and State Tax Agencies,PLR-2026-000057,2026-03-23,5
+170,57,Employer Payroll Tax,2026-03-23,21402.76,Payroll Tax Agencies,PLR-2026-000058,2026-03-24,5
+171,57,Benefits and Other Deductions,2026-03-25,27050.46,Benefits and Deductions Clearinghouse,PLR-2026-000059,2026-03-26,5
+172,58,Employee Tax Withholding,2026-04-03,29909.37,Federal and State Tax Agencies,PLR-2026-000058,2026-04-06,5
+173,58,Employer Payroll Tax,2026-04-06,16958.52,Payroll Tax Agencies,PLR-2026-000059,2026-04-07,5
+174,58,Benefits and Other Deductions,2026-04-08,21259.52,Benefits and Deductions Clearinghouse,PLR-2026-000060,2026-04-09,5
+175,59,Employee Tax Withholding,2026-04-17,38325.55,Federal and State Tax Agencies,PLR-2026-000059,2026-04-20,5
+176,59,Employer Payroll Tax,2026-04-20,21641.97,Payroll Tax Agencies,PLR-2026-000060,2026-04-21,5
+177,59,Benefits and Other Deductions,2026-04-22,27351.7,Benefits and Deductions Clearinghouse,PLR-2026-000061,2026-04-23,5
+178,60,Employee Tax Withholding,2026-05-01,27589.15,Federal and State Tax Agencies,PLR-2026-000060,2026-05-04,5
+179,60,Employer Payroll Tax,2026-05-04,15644.83,Payroll Tax Agencies,PLR-2026-000061,2026-05-05,5
+180,60,Benefits and Other Deductions,2026-05-06,19585.59,Benefits and Deductions Clearinghouse,PLR-2026-000062,2026-05-07,5
+181,61,Employee Tax Withholding,2026-05-15,36371.19,Federal and State Tax Agencies,PLR-2026-000061,2026-05-18,5
+182,61,Employer Payroll Tax,2026-05-18,20570.41,Payroll Tax Agencies,PLR-2026-000062,2026-05-19,5
+183,61,Benefits and Other Deductions,2026-05-20,25964.82,Benefits and Deductions Clearinghouse,PLR-2026-000063,2026-05-21,5
+184,62,Employee Tax Withholding,2026-05-29,30306.19,Federal and State Tax Agencies,PLR-2026-000062,2026-06-01,5
+185,62,Employer Payroll Tax,2026-06-01,17137.93,Payroll Tax Agencies,PLR-2026-000063,2026-06-02,5
+186,62,Benefits and Other Deductions,2026-06-03,21619.78,Benefits and Deductions Clearinghouse,PLR-2026-000064,2026-06-04,5
+187,63,Employee Tax Withholding,2026-06-12,31194.91,Federal and State Tax Agencies,PLR-2026-000063,2026-06-15,5
+188,63,Employer Payroll Tax,2026-06-15,17646.58,Payroll Tax Agencies,PLR-2026-000064,2026-06-16,5
+189,63,Benefits and Other Deductions,2026-06-17,22133.46,Benefits and Deductions Clearinghouse,PLR-2026-000065,2026-06-18,5
+190,64,Employee Tax Withholding,2026-06-26,37784.75,Federal and State Tax Agencies,PLR-2026-000064,2026-06-29,5
+191,64,Employer Payroll Tax,2026-06-29,21339.55,Payroll Tax Agencies,PLR-2026-000065,2026-06-30,5
+192,64,Benefits and Other Deductions,2026-07-01,26925.8,Benefits and Deductions Clearinghouse,PLR-2026-000066,2026-07-02,5
+193,65,Employee Tax Withholding,2026-07-10,31825.11,Federal and State Tax Agencies,PLR-2026-000065,2026-07-13,5
+194,65,Employer Payroll Tax,2026-07-13,17966.86,Payroll Tax Agencies,PLR-2026-000066,2026-07-14,5
+195,65,Benefits and Other Deductions,2026-07-15,22578.76,Benefits and Deductions Clearinghouse,PLR-2026-000067,2026-07-16,5
+196,66,Employee Tax Withholding,2026-07-24,38259.57,Federal and State Tax Agencies,PLR-2026-000066,2026-07-27,5
+197,66,Employer Payroll Tax,2026-07-27,21640.39,Payroll Tax Agencies,PLR-2026-000067,2026-07-28,5
+198,66,Benefits and Other Deductions,2026-07-29,27384.17,Benefits and Deductions Clearinghouse,PLR-2026-000068,2026-07-30,5
+199,67,Employee Tax Withholding,2026-08-07,32846.5,Federal and State Tax Agencies,PLR-2026-000067,2026-08-10,5
+200,67,Employer Payroll Tax,2026-08-10,18590.4,Payroll Tax Agencies,PLR-2026-000068,2026-08-11,5
+201,67,Benefits and Other Deductions,2026-08-12,23423.4,Benefits and Deductions Clearinghouse,PLR-2026-000069,2026-08-13,5
+202,68,Employee Tax Withholding,2026-08-21,38136.82,Federal and State Tax Agencies,PLR-2026-000068,2026-08-24,5
+203,68,Employer Payroll Tax,2026-08-24,21555.68,Payroll Tax Agencies,PLR-2026-000069,2026-08-25,5
+204,68,Benefits and Other Deductions,2026-08-26,27328.99,Benefits and Deductions Clearinghouse,PLR-2026-000070,2026-08-27,5
+205,69,Employee Tax Withholding,2026-09-04,28406.64,Federal and State Tax Agencies,PLR-2026-000069,2026-09-07,5
+206,69,Employer Payroll Tax,2026-09-07,16100.41,Payroll Tax Agencies,PLR-2026-000070,2026-09-08,5
+207,69,Benefits and Other Deductions,2026-09-09,20235.13,Benefits and Deductions Clearinghouse,PLR-2026-000071,2026-09-10,5
+208,70,Employee Tax Withholding,2026-09-18,38839.05,Federal and State Tax Agencies,PLR-2026-000070,2026-09-21,5
+209,70,Employer Payroll Tax,2026-09-21,21974.41,Payroll Tax Agencies,PLR-2026-000071,2026-09-22,5
+210,70,Benefits and Other Deductions,2026-09-23,27792.67,Benefits and Deductions Clearinghouse,PLR-2026-000072,2026-09-24,5
+211,71,Employee Tax Withholding,2026-10-02,27567.75,Federal and State Tax Agencies,PLR-2026-000071,2026-10-05,5
+212,71,Employer Payroll Tax,2026-10-05,15696.99,Payroll Tax Agencies,PLR-2026-000072,2026-10-06,5
+213,71,Benefits and Other Deductions,2026-10-07,19693.35,Benefits and Deductions Clearinghouse,PLR-2026-000073,2026-10-08,5
+214,72,Employee Tax Withholding,2026-10-16,37607.09,Federal and State Tax Agencies,PLR-2026-000072,2026-10-19,5
+215,72,Employer Payroll Tax,2026-10-19,21270.98,Payroll Tax Agencies,PLR-2026-000073,2026-10-20,5
+216,72,Benefits and Other Deductions,2026-10-21,26868.37,Benefits and Deductions Clearinghouse,PLR-2026-000074,2026-10-22,5
+217,73,Employee Tax Withholding,2026-10-30,30542.95,Federal and State Tax Agencies,PLR-2026-000073,2026-11-02,5
+218,73,Employer Payroll Tax,2026-11-02,17327.84,Payroll Tax Agencies,PLR-2026-000074,2026-11-03,5
+219,73,Benefits and Other Deductions,2026-11-04,21778.06,Benefits and Deductions Clearinghouse,PLR-2026-000075,2026-11-05,5
+220,74,Employee Tax Withholding,2026-11-13,39521.23,Federal and State Tax Agencies,PLR-2026-000074,2026-11-16,5
+221,74,Employer Payroll Tax,2026-11-16,22348.6,Payroll Tax Agencies,PLR-2026-000075,2026-11-17,5
+222,74,Benefits and Other Deductions,2026-11-18,28290.74,Benefits and Deductions Clearinghouse,PLR-2026-000076,2026-11-19,5
+223,75,Employee Tax Withholding,2026-11-27,29319.35,Federal and State Tax Agencies,PLR-2026-000075,2026-11-30,5
+224,75,Employer Payroll Tax,2026-11-30,16613.84,Payroll Tax Agencies,PLR-2026-000076,2026-12-01,5
+225,75,Benefits and Other Deductions,2026-12-02,20997.53,Benefits and Deductions Clearinghouse,PLR-2026-000077,2026-12-03,5
+226,76,Employee Tax Withholding,2026-12-11,31189.09,Federal and State Tax Agencies,PLR-2026-000076,2026-12-14,5
+227,76,Employer Payroll Tax,2026-12-14,17679.24,Payroll Tax Agencies,PLR-2026-000077,2026-12-15,5
+228,76,Benefits and Other Deductions,2026-12-16,22247.78,Benefits and Deductions Clearinghouse,PLR-2026-000078,2026-12-17,5
+229,77,Employee Tax Withholding,2026-12-25,38035.2,Federal and State Tax Agencies,PLR-2026-000077,2026-12-28,5
+230,77,Employer Payroll Tax,2026-12-28,21521.67,Payroll Tax Agencies,PLR-2026-000078,2026-12-29,5
+231,77,Benefits and Other Deductions,2026-12-30,27227.46,Benefits and Deductions Clearinghouse,PLR-2026-000079,2026-12-31,5

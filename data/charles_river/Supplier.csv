@@ -1,0 +1,111 @@
+SupplierID,SupplierName,ContactName,Address,City,State,PostalCode,Country,Phone,Email,PaymentTerms,IsApproved,TaxID,BankAccount,SupplierCategory,SupplierRiskRating,DefaultCurrency
+1,Anderson-Noble,Jesse Porter,5011 Patricia Pine Apt. 492,Johnsonfurt,MT,94029,USA,355.432.6880x7054,supplier0001@example.com,Net 45,1,XX-XXX1001,****5001,Accessories,Low,USD
+2,"Watson, Mitchell and Chen",Mary Mills,087 Smith Well,South Patriciafurt,PR,76652,USA,(707)536-2317x6424,supplier0002@example.com,Net 30,1,XX-XXX1002,****5002,Textiles,Low,USD
+3,"Lucas, Green and Richardson",Sergio Price,95828 Collins Spurs Suite 932,Port Davidshire,ND,94651,USA,(531)539-0017x6824,supplier0003@example.com,Net 45,1,XX-XXX1003,****5003,Accessories,Low,USD
+4,"Stokes, Mann and Keller",Sarah Soto,00450 Mendoza Spurs Suite 177,Foxborough,NY,69561,USA,001-489-246-4436x5956,supplier0004@example.com,Net 30,1,XX-XXX1004,****5004,Logistics,Low,USD
+5,Nelson-Rocha,Robert Howard,03484 Sandoval Crescent,Hallchester,PW,27662,USA,312.493.2414,supplier0005@example.com,Net 45,1,XX-XXX1005,****5005,Services,Low,USD
+6,"Wright, Sanchez and Garza",Ruth Murphy,54726 Gamble Village Apt. 176,New Mirandachester,SC,08405,USA,850.635.3846,supplier0006@example.com,Net 60,1,XX-XXX1006,****5006,Accessories,Low,USD
+7,Powell Inc,Robyn Decker,94328 Christopher Mission,Port Amystad,PR,97232,USA,(230)411-3928,supplier0007@example.com,Net 60,1,XX-XXX1007,****5007,Packaging,Low,USD
+8,Gardner-Shelton,Alison Boyd,302 Krueger Isle Apt. 095,South Kenneth,NH,93504,USA,811.953.6409x8319,supplier0008@example.com,Net 60,1,XX-XXX1008,****5008,Packaging,Low,USD
+9,Hale-Hart,Allison Marsh,475 William Skyway Suite 314,Kellyshire,KS,47570,USA,793-480-4814x5254,supplier0009@example.com,Net 30,1,XX-XXX1009,****5009,Accessories,Low,USD
+10,"Gay, Clark and Hickman",Catherine Lowe,487 Steven Greens Suite 502,Lake Amy,MD,50757,USA,(431)548-1910x932,supplier0010@example.com,Net 30,1,XX-XXX1010,****5010,Accessories,Medium,USD
+11,"Thomas, Robinson and Cunningham",Judy Kelley,804 Deborah Hollow,Victoriaborough,AZ,03208,USA,240-960-4858,supplier0011@example.com,Net 45,1,XX-XXX1011,****5011,Accessories,High,USD
+12,Anderson-Lara,Jennifer Lee,15322 Gray Springs Suite 715,East Christine,OK,68275,USA,(360)749-8904x687,supplier0012@example.com,Net 30,1,XX-XXX1012,****5012,Furniture,Medium,USD
+13,Briggs-Cummings,Dennis Petersen,67857 Meyer Road Apt. 409,Tanyahaven,MT,88496,USA,996.756.3212,supplier0013@example.com,Net 60,1,XX-XXX1013,****5013,Packaging,Medium,USD
+14,Morris-Taylor,Wayne Lopez,79090 Jones Roads,South Ronnietown,GU,36283,USA,654.243.6128,supplier0014@example.com,Net 45,1,XX-XXX1014,****5014,Logistics,Medium,USD
+15,"Cross, Alexander and Romero",Kaitlyn Francis,64661 Peterson Coves Apt. 996,Lake Danielle,DE,61934,USA,+1-452-358-2878,supplier0015@example.com,Net 30,1,XX-XXX1015,****5015,Services,Low,USD
+16,"Berger, Stanley and Cooper",Frederick Cole,0454 Daniels Pines Apt. 421,North Rebeccaborough,AL,58758,USA,(818)504-3108x501,supplier0016@example.com,Net 30,1,XX-XXX1016,****5016,Raw Materials,Low,USD
+17,"Brooks, Johnson and Olson",Tonya Fields DDS,6659 Christian Manors Apt. 364,Mannland,MN,13566,USA,(655)774-7689x64122,supplier0017@example.com,Net 45,1,XX-XXX1017,****5017,Raw Materials,Low,USD
+18,Powers-Daniels,Paula Morgan,7451 Matthew Manor Apt. 347,Port Kristinahaven,TN,83729,USA,986-483-0131x2742,supplier0018@example.com,Net 60,1,XX-XXX1018,****5018,Textiles,Low,USD
+19,"Perez, Schultz and Ward",Cindy Gonzales,53059 Bradshaw Falls,West Ian,OH,69689,USA,+1-907-405-1376x670,supplier0019@example.com,Net 60,1,XX-XXX1019,****5019,Services,Low,USD
+20,Potter-Gross,Brandy Cochran,05386 Rowe Viaduct,North Daniellechester,TX,09444,USA,394-491-3755x9289,supplier0020@example.com,Net 45,1,XX-XXX1020,****5020,Lighting,Low,USD
+21,"Pena, Clayton and Ward",Kathryn Taylor,37245 Jackson Inlet Apt. 877,Abigailmouth,LA,70893,USA,928.224.4804,supplier0021@example.com,Net 30,1,XX-XXX1021,****5021,Textiles,Medium,USD
+22,Coleman-Moore,James Alvarado,8433 Burns Walk Apt. 663,Aaronview,MO,07995,USA,636.941.4416,supplier0022@example.com,Net 60,1,XX-XXX1022,****5022,Services,Low,USD
+23,Garcia Group,Richard Mason,5742 Lewis Manor Suite 684,Lake Bonniechester,ND,10238,USA,001-644-841-2515,supplier0023@example.com,Net 30,1,XX-XXX1023,****5023,Raw Materials,Medium,USD
+24,Barrett Inc,Christina Ward,60867 Green Islands Suite 147,Danielshire,WY,19664,USA,+1-796-902-2302x465,supplier0024@example.com,Net 30,1,XX-XXX1024,****5024,Logistics,High,USD
+25,"Martinez, Green and Gentry",Laurie Esparza,9149 Karen Village,North Walter,CO,61659,USA,570-905-5826,supplier0025@example.com,Net 30,1,XX-XXX1025,****5025,Services,Low,USD
+26,Fletcher Ltd,James Hamilton,54072 Parsons Fields,East Marie,VA,70663,USA,856.573.9224,supplier0026@example.com,Net 30,1,XX-XXX1026,****5026,Packaging,Low,USD
+27,Hester Ltd,Marie Robertson,73332 Chapman Hills Apt. 232,Greenside,NC,66213,USA,217.848.6869x075,supplier0027@example.com,Net 45,1,XX-XXX1027,****5027,Raw Materials,Low,USD
+28,Martinez LLC,Brooke Kelly,83085 Tracy Field Suite 071,East Lindseyland,WI,66105,USA,824.582.3346x2281,supplier0028@example.com,Net 45,1,XX-XXX1028,****5028,Services,Low,USD
+29,"Harris, Taylor and Perkins",Darrell Brewer,24227 Juarez Freeway,Samanthastad,AS,79974,USA,5053454180,supplier0029@example.com,Net 45,1,XX-XXX1029,****5029,Accessories,Low,USD
+30,Tucker Group,Alyssa Powers,0105 Parks Parkways Suite 917,Gambleberg,IN,97368,USA,848.559.0328,supplier0030@example.com,Net 60,1,XX-XXX1030,****5030,Lighting,Low,USD
+31,Whitaker-Edwards,Christopher Carlson,472 Frank Branch Suite 581,New Nicoleton,AS,68145,USA,711-215-8003,supplier0031@example.com,Net 45,1,XX-XXX1031,****5031,Textiles,Low,USD
+32,"Goodwin, Walker and Scott",Jordan Collins,132 Powell Junctions,Priceshire,OK,63234,USA,+1-916-319-1307x6920,supplier0032@example.com,Net 45,1,XX-XXX1032,****5032,Textiles,Medium,USD
+33,"Peters, Terry and Zimmerman",Jason Callahan,126 Lee Plaza,Barryfurt,DC,92609,USA,456.428.7954,supplier0033@example.com,Net 30,1,XX-XXX1033,****5033,Raw Materials,Low,USD
+34,"Silva, Burton and Arnold",John Rasmussen,215 Tommy Neck,North Albertport,NV,82273,USA,626.203.4924x760,supplier0034@example.com,Net 60,1,XX-XXX1034,****5034,Textiles,Medium,USD
+35,Duncan-Dawson,Martin Barker,65800 Mary Curve,Mendozafort,TX,04952,USA,8088133547,supplier0035@example.com,Net 30,1,XX-XXX1035,****5035,Accessories,Low,USD
+36,Boyd and Sons,Amy Hernandez MD,69438 Newman Gateway,South Amy,MA,13379,USA,001-765-652-9997x782,supplier0036@example.com,Net 30,1,XX-XXX1036,****5036,Logistics,Medium,USD
+37,Nash LLC,Chad Jones,3487 Molina Ferry Suite 312,West Alyssamouth,MS,05930,USA,+1-868-313-0451,supplier0037@example.com,Net 60,1,XX-XXX1037,****5037,Textiles,Low,USD
+38,"Morris, Anderson and Chang",Laura Burch,76575 Paul Trace,Noahshire,IA,11253,USA,490.870.8856x36310,supplier0038@example.com,Net 60,1,XX-XXX1038,****5038,Packaging,Low,USD
+39,"Henderson, Bennett and Pena",Anthony Young,846 Vanessa Points,Rhondatown,MD,22498,USA,409-874-1906,supplier0039@example.com,Net 60,1,XX-XXX1039,****5039,Lighting,Low,USD
+40,Yang-Sandoval,Maria Moon,014 Patrick Fork Apt. 027,Alyssafurt,ID,81941,USA,277.737.8371,supplier0040@example.com,Net 45,1,XX-XXX1040,****5040,Textiles,High,USD
+41,Lindsey and Sons,Holly Le,8780 Nathaniel Skyway,East Kimberlyshire,NY,50633,USA,(699)614-4962,supplier0041@example.com,Net 30,1,XX-XXX1041,****5041,Raw Materials,Medium,USD
+42,"Bailey, Gutierrez and Cameron",Steven Moran,84715 Kenneth Inlet Apt. 117,Lauramouth,VA,78166,USA,(827)455-6504x96161,supplier0042@example.com,Net 30,1,XX-XXX1042,****5042,Services,Low,USD
+43,Harris and Sons,Cheryl Nelson,5053 Parks Union Apt. 522,Port Amber,AR,01020,USA,+1-394-885-6700,supplier0043@example.com,Net 45,1,XX-XXX1043,****5043,Accessories,Low,USD
+44,Diaz Group,Ruth Carlson,87753 Charles Burg,Port Shawnside,GA,97988,USA,001-944-873-9147x5726,supplier0044@example.com,Net 30,1,XX-XXX1044,****5044,Furniture,Medium,USD
+45,Smith-Ray,Jacqueline Adams,66408 Christopher Road Apt. 365,Reedstad,NM,96909,USA,+1-700-962-2865x38641,supplier0045@example.com,Net 30,1,XX-XXX1045,****5045,Packaging,Low,USD
+46,"Williams, Baker and Santos",Jay Prince,6980 Odom Glens Apt. 062,North Christineside,OH,78566,USA,+1-905-979-7334x51086,supplier0046@example.com,Net 30,1,XX-XXX1046,****5046,Textiles,Low,USD
+47,"Simmons, Tucker and Huang",Jesse Gallagher,662 Larry Divide,Cranemouth,OR,14304,USA,7123055555,supplier0047@example.com,Net 30,1,XX-XXX1047,****5047,Lighting,Low,USD
+48,Turner PLC,Felicia Wells,6031 John Trafficway,West Nathanbury,KY,49893,USA,001-861-211-1228x66167,supplier0048@example.com,Net 60,1,XX-XXX1048,****5048,Accessories,Low,USD
+49,Hoffman LLC,Elizabeth Baker,1964 Bryce Coves Suite 541,Martinville,SD,65806,USA,(378)530-4170x0980,supplier0049@example.com,Net 45,1,XX-XXX1049,****5049,Raw Materials,Low,USD
+50,Evans PLC,Kimberly Cruz,685 Kim Plaza Apt. 710,West Jamesport,WA,24267,USA,001-888-809-6602x89908,supplier0050@example.com,Net 30,1,XX-XXX1050,****5050,Services,Low,USD
+51,"Thomas, Gonzalez and Beltran",Christine Wallace,2490 Torres Crossroad Suite 990,Lake Susan,MI,76221,USA,228.531.4272,supplier0051@example.com,Net 30,1,XX-XXX1051,****5051,Packaging,Medium,USD
+52,"Hernandez, Melendez and Mcdowell",Jackson Barber,3827 Alicia Summit,Monicaport,CO,80438,USA,5809565750,supplier0052@example.com,Net 45,1,XX-XXX1052,****5052,Raw Materials,Medium,USD
+53,Hernandez PLC,Fernando Alvarez,7584 Eric Villages,North Kathyville,VI,77078,USA,2175698909,supplier0053@example.com,Net 45,1,XX-XXX1053,****5053,Services,Low,USD
+54,Davis-Grant,Meghan Smith,56980 Gerald Locks Suite 877,East Michaelmouth,AK,40099,USA,321-575-5316,supplier0054@example.com,Net 45,1,XX-XXX1054,****5054,Packaging,Low,USD
+55,Donaldson LLC,Bradley Brown,689 Leach Port Apt. 762,Evansmouth,UT,98379,USA,351.306.4872,supplier0055@example.com,Net 30,1,XX-XXX1055,****5055,Furniture,High,USD
+56,Velasquez-Baxter,James Little,444 Tara Haven Suite 675,South Bill,ND,50498,USA,377.206.5150,supplier0056@example.com,Net 30,1,XX-XXX1056,****5056,Raw Materials,Low,USD
+57,"Lopez, Sheppard and Ramirez",Alison Garcia,0626 Kylie Brooks Suite 387,Kathyshire,DC,19419,USA,(561)713-2655,supplier0057@example.com,Net 45,1,XX-XXX1057,****5057,Packaging,High,USD
+58,Keith PLC,Mrs. Kelly Bradley,845 Strickland Mountains Apt. 755,Carolside,ND,17820,USA,941-875-1374x0057,supplier0058@example.com,Net 45,1,XX-XXX1058,****5058,Raw Materials,Medium,USD
+59,Day PLC,Shannon Leonard,5281 Emily Loop Suite 834,North Michael,MI,10448,USA,(329)368-6582,supplier0059@example.com,Net 45,1,XX-XXX1059,****5059,Lighting,Medium,USD
+60,Torres Ltd,Janet Smith,75235 Catherine Ferry,New Curtisland,CT,83896,USA,+1-217-946-3708,supplier0060@example.com,Net 60,1,XX-XXX1060,****5060,Textiles,Low,USD
+61,Thomas LLC,Jared Sanders,5408 John Estate,Smithville,VI,14536,USA,+1-907-295-7018x9823,supplier0061@example.com,Net 45,1,XX-XXX1061,****5061,Furniture,Low,USD
+62,Lyons-Sheppard,Edward Foster MD,003 Davis Plains,East Thomasshire,MH,03458,USA,642-891-0573,supplier0062@example.com,Net 45,1,XX-XXX1062,****5062,Furniture,Low,USD
+63,Patterson-Smith,Eric Bell,89882 Smith Freeway,Georgemouth,AL,18668,USA,001-404-570-4175x88036,supplier0063@example.com,Net 30,1,XX-XXX1063,****5063,Furniture,Low,USD
+64,Sanford LLC,Brandon Hogan,5673 Kristina Street,Richardtown,DE,62518,USA,485-916-5022x625,supplier0064@example.com,Net 30,1,XX-XXX1064,****5064,Packaging,Low,USD
+65,"Bell, Pruitt and David",Daniel Woods,19926 Hall Points Apt. 722,New Ebony,AR,51356,USA,(294)666-5289,supplier0065@example.com,Net 30,1,XX-XXX1065,****5065,Raw Materials,Low,USD
+66,Perez-Byrd,Brandon Carr,4202 Douglas Rapids,Harveychester,KS,71065,USA,633-444-2813x63597,supplier0066@example.com,Net 30,1,XX-XXX1066,****5066,Logistics,Low,USD
+67,"Rodriguez, Myers and Grimes",Robert Johnston,716 Tammy Crossroad,North Steven,PR,85683,USA,285.871.9790,supplier0067@example.com,Net 45,1,XX-XXX1067,****5067,Lighting,Medium,USD
+68,House-Hodges,Wendy Boyer,2465 Gregory Squares Suite 108,Sherriland,MO,77877,USA,2919819676,supplier0068@example.com,Net 30,1,XX-XXX1068,****5068,Services,Medium,USD
+69,Fuller LLC,Alexander Brown,505 Morgan Meadows Suite 497,Port Tonyburgh,AZ,18349,USA,534.429.9361,supplier0069@example.com,Net 60,1,XX-XXX1069,****5069,Textiles,Low,USD
+70,"Robinson, Yang and Mckay",Michelle Jones,561 Hunt Lodge Apt. 097,Port Normanview,IA,59664,USA,698-309-2792,supplier0070@example.com,Net 45,1,XX-XXX1070,****5070,Logistics,Low,USD
+71,Clayton-Thompson,Willie Morales,5915 Gordon Expressway Apt. 308,Hernandezfurt,TN,20221,USA,(933)802-6365x555,supplier0071@example.com,Net 30,1,XX-XXX1071,****5071,Furniture,Low,USD
+72,Hansen-Kaufman,Brenda Rogers,7600 Monica Drives,Bakerburgh,MA,89102,USA,001-354-926-0629x5953,supplier0072@example.com,Net 45,1,XX-XXX1072,****5072,Services,Medium,USD
+73,Sweeney PLC,Christina Matthews,2366 Guzman Fort,North Joe,TX,52845,USA,641.558.8036,supplier0073@example.com,Net 30,1,XX-XXX1073,****5073,Furniture,Low,USD
+74,Coffey Group,Jesse Reyes,5880 Rosales Fields,East Jason,MS,69483,USA,812.996.9748x76472,supplier0074@example.com,Net 60,1,XX-XXX1074,****5074,Furniture,Medium,USD
+75,Gomez PLC,Ashley Gilbert,4302 Davis Tunnel Apt. 126,Hoganton,MS,60922,USA,001-665-809-7722x19686,supplier0075@example.com,Net 30,1,XX-XXX1075,****5075,Furniture,Low,USD
+76,"Munoz, Garcia and Olsen",Michael Gillespie,58605 Richardson Square Suite 022,West Meganbury,NC,75090,USA,277.921.5774x808,supplier0076@example.com,Net 30,1,XX-XXX1076,****5076,Furniture,Low,USD
+77,"Rodriguez, Goodman and Lee",Jesse Williams,73301 Robert Common,Parrishborough,WV,59688,USA,(355)938-5135,supplier0077@example.com,Net 45,1,XX-XXX1077,****5077,Furniture,Medium,USD
+78,Nguyen-Davis,Joel Brown,9543 Sharon Hill Apt. 262,Jesseville,ID,98420,USA,759-707-6995,supplier0078@example.com,Net 30,1,XX-XXX1078,****5078,Accessories,Low,USD
+79,"Ellis, Smith and Francis",Gary Salazar,4757 Calhoun Garden,South Johnhaven,FM,08946,USA,(664)518-4511x651,supplier0079@example.com,Net 30,1,XX-XXX1079,****5079,Services,Medium,USD
+80,Gordon and Sons,Jennifer Stewart,298 April Squares Apt. 473,Port Alisonside,SC,40997,USA,740-918-6987x626,supplier0080@example.com,Net 45,1,XX-XXX1080,****5080,Furniture,High,USD
+81,Green and Sons,Jeffery Crawford,8292 Ian Garden,Jacksonton,WV,63232,USA,(433)834-5119,supplier0081@example.com,Net 60,1,XX-XXX1081,****5081,Furniture,Medium,USD
+82,"Duran, Mccarthy and Myers",Devin Roy,2391 Denise Mews Suite 094,West Samanthamouth,AR,98425,USA,001-607-706-5670x50241,supplier0082@example.com,Net 45,1,XX-XXX1082,****5082,Lighting,Low,USD
+83,"Coffey, Gross and Phelps",Christopher Combs,18387 Krystal Glens Apt. 071,Julieburgh,MI,01750,USA,001-947-645-9145x390,supplier0083@example.com,Net 60,1,XX-XXX1083,****5083,Accessories,Low,USD
+84,Chambers PLC,Paul Norman,068 Misty Spurs Apt. 476,Rebeccafort,GA,04152,USA,8895738900,supplier0084@example.com,Net 60,1,XX-XXX1084,****5084,Furniture,Low,USD
+85,Weeks Group,Craig Greer,9590 Douglas Branch,Lake Jasonview,NM,04764,USA,(229)260-3226,supplier0085@example.com,Net 30,1,XX-XXX1085,****5085,Accessories,Low,USD
+86,Jones Group,Gina Alexander,5321 Nathan Corner Suite 289,Hallfort,AL,40288,USA,217.865.7059x028,supplier0086@example.com,Net 30,1,XX-XXX1086,****5086,Textiles,Low,USD
+87,"Villarreal, Mcdonald and Scott",Joel Perry,555 Silva Stream Suite 807,West Glennstad,ID,70785,USA,238-485-8548,supplier0087@example.com,Net 30,1,XX-XXX1087,****5087,Packaging,Low,USD
+88,"Murphy, Williams and Sanders",Kathy Kramer,5198 Lee Village Suite 773,New Danielstad,MD,87316,USA,001-547-377-9579x51950,supplier0088@example.com,Net 60,1,XX-XXX1088,****5088,Furniture,Low,USD
+89,Arnold Ltd,Anthony Ponce,78390 Laurie Passage,Davismouth,CA,14882,USA,613.803.4345x216,supplier0089@example.com,Net 30,1,XX-XXX1089,****5089,Services,Low,USD
+90,Nguyen-Weaver,Jennifer Stanley,564 Richard Centers Apt. 741,Port Seanside,GU,88381,USA,001-616-952-1827x4741,supplier0090@example.com,Net 30,1,XX-XXX1090,****5090,Logistics,Low,USD
+91,Kaufman-Williams,Greg Stewart,4116 Michael Freeway Suite 581,Jimenezfurt,WI,61537,USA,+1-626-309-2979x339,supplier0091@example.com,Net 60,1,XX-XXX1091,****5091,Textiles,Low,USD
+92,Watts-Strickland,Lisa Garcia,2741 Turner Hollow Suite 818,Carterburgh,DC,41320,USA,8256100609,supplier0092@example.com,Net 45,1,XX-XXX1092,****5092,Services,Low,USD
+93,Boone-Benton,Jennifer Young,801 John Tunnel Suite 158,Franciscomouth,PA,95869,USA,001-942-868-8381,supplier0093@example.com,Net 45,1,XX-XXX1093,****5093,Lighting,Low,USD
+94,Kelly-Bradshaw,Robert Coleman,5455 Caroline Pass,Rodriguezhaven,NJ,91454,USA,(763)941-0760x16967,supplier0094@example.com,Net 30,1,XX-XXX1094,****5094,Packaging,Low,USD
+95,Robinson Ltd,Christopher Wade,564 Ferguson Points Apt. 984,Trujilloland,KY,68131,USA,738-768-3106,supplier0095@example.com,Net 60,1,XX-XXX1095,****5095,Textiles,Low,USD
+96,Colon LLC,Eric Erickson,9334 Ruth Villages,Murphymouth,CA,88354,USA,554.287.7464x322,supplier0096@example.com,Net 30,1,XX-XXX1096,****5096,Furniture,Low,USD
+97,Brown-Owens,Philip Bates,9405 Arthur Flat,North Jasminefurt,LA,51074,USA,+1-245-683-0036x91419,supplier0097@example.com,Net 45,1,XX-XXX1097,****5097,Logistics,Low,USD
+98,"Marks, Mitchell and Hernandez",William Reilly,095 Stacey Union Apt. 454,South Stevenshire,MH,53063,USA,799.813.4923,supplier0098@example.com,Net 45,1,XX-XXX1098,****5098,Services,Low,USD
+99,King Ltd,Nicole Aguirre,00425 Michael Fords Apt. 485,Roblesmouth,UT,24179,USA,200-581-1672x479,supplier0099@example.com,Net 30,1,XX-XXX1099,****5099,Packaging,Low,USD
+100,Collins-Johnson,Christopher George,805 Stephanie Tunnel Apt. 160,Lake Samuel,SC,36480,USA,665-759-0910x15976,supplier0100@example.com,Net 30,1,XX-XXX1100,****5100,Raw Materials,Low,USD
+101,Dennis PLC,Rachel Johnson,27872 Porter Fort,Garnerland,FM,78522,USA,(694)421-6145,supplier0101@example.com,Net 60,1,XX-XXX1101,****5101,Services,Low,USD
+102,"Salas, Gallagher and Anderson",Hannah Flores,163 Ashley Crossing,Alexmouth,NM,45253,USA,001-293-618-2456x315,supplier0102@example.com,Net 45,1,XX-XXX1102,****5102,Accessories,Low,USD
+103,Morrison-Smith,Destiny Becker,090 Stephenson Fords,Shepardtown,FL,93238,USA,466-295-2199x59918,supplier0103@example.com,Net 30,1,XX-XXX1103,****5103,Accessories,Low,USD
+104,"Clay, Hunt and Anderson",Gabrielle Macias,779 David Points Apt. 647,West Lori,NC,79460,USA,+1-590-263-1798x247,supplier0104@example.com,Net 45,0,XX-XXX1104,****5104,Services,High,USD
+105,"Griffin, Butler and Nichols",William Solomon,5690 Pearson Flat,North Alyssa,WI,37697,USA,693-659-4070,supplier0105@example.com,Net 60,0,XX-XXX1105,****5105,Furniture,Low,USD
+106,Ellis and Sons,Justin Walker,8508 Davis Dale Suite 145,Michaelport,CA,18611,USA,(888)930-7646x9769,supplier0106@example.com,Net 30,0,XX-XXX1106,****5106,Raw Materials,Low,USD
+107,Stanley-Adams,Paula Meadows,099 West Centers,Lake Danielfort,WI,35778,USA,728-960-3024,supplier0107@example.com,Net 30,0,XX-XXX1107,****5107,Packaging,Medium,USD
+108,"Gonzalez, Gonzales and Andrade",Jacob Guzman,2385 Teresa Tunnel Suite 812,Reedmouth,NJ,29439,USA,927.339.2416x84200,supplier0108@example.com,Net 45,0,XX-XXX1108,****5108,Furniture,Low,USD
+109,Adams-Jackson,Benjamin Washington,943 Tina Avenue,New Melissa,IL,16202,USA,(614)548-6103,supplier0109@example.com,Net 30,0,XX-XXX1109,****5109,Lighting,Low,USD
+110,Bennett-Thomas,Benjamin Harrison,3816 Chelsea Branch Suite 767,New Travis,KY,96440,USA,546-935-9287,supplier0110@example.com,Net 30,0,XX-XXX1110,****5110,Lighting,Low,USD

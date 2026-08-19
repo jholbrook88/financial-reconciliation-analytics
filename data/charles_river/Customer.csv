@@ -1,0 +1,221 @@
+CustomerID,CustomerName,ContactName,Address,City,State,PostalCode,Country,Phone,Email,CreditLimit,PaymentTerms,CustomerSince,SalesRepEmployeeID,CustomerSegment,Industry,Region,IsActive
+1,Walters PLC,Adam Ford,36676 Cortez Trafficway,West Derekland,CO,83256,USA,(324)909-5764x740,customer0001@example.com,258220.04,Net 30,2020-03-11,6,Strategic,Hospitality,West,1
+2,Roberts Ltd,Kelsey Duncan,8195 Amanda Mountains,Brennanmouth,OR,06027,USA,4103000222,customer0002@example.com,31925.69,Net 60,2017-08-28,82,Small Business,Office,West,1
+3,"Banks, Jacobson and Kemp",Michael Walker,2746 Gina Plains,Shawshire,IN,39031,USA,289-386-7240,customer0003@example.com,17649.97,Net 30,2020-04-22,108,Small Business,Office,Midwest,1
+4,"Edwards, Stanley and Rivera",Travis Miller,0669 Marvin Roads,Susanmouth,IN,29690,USA,944.824.7107,customer0004@example.com,144083.67,Net 45,2018-02-28,82,Wholesale,Office,Midwest,1
+5,Brown LLC,Carlos Gonzalez,7324 Payne Squares Suite 406,Moniqueborough,AZ,63211,USA,293.994.8270,customer0005@example.com,49089.88,Net 30,2016-07-12,108,Design Trade,Office,West,1
+6,"Diaz, Welch and Faulkner",Steven Mercado,99831 Wright Manor Apt. 940,Mossbury,MI,81476,USA,573-393-0890x68437,customer0006@example.com,118881.54,Net 45,2018-04-24,6,Wholesale,Office,Midwest,1
+7,"Pierce, Pham and Hall",Norman Berry,18398 Stephen Estate Apt. 557,Joshuafurt,TN,48228,USA,8285739839,customer0007@example.com,87432.12,Net 45,2017-05-15,120,Wholesale,Interior Design,South,1
+8,Chavez-Paul,Scott Ford Jr.,9206 Kennedy Streets,Rowlandtown,NY,19171,USA,(946)228-6289x923,customer0008@example.com,20696.16,Net 45,2020-05-25,107,Small Business,Retail,Northeast,1
+9,"Bowers, Duke and Powers",Amy Conway,731 Melissa Rue,North Haley,MI,45812,USA,(877)804-2190x37377,customer0009@example.com,73632.57,Net 60,2024-05-25,120,Wholesale,Real Estate,Midwest,1
+10,"Donaldson, Campbell and Arnold",Antonio Johnson,2198 Barrera Views,Lewismouth,IL,70652,USA,(452)452-9195x79473,customer0010@example.com,121010.12,Net 45,2017-03-09,120,Design Services,Retail,Midwest,1
+11,Taylor-Cannon,Jennifer Melton,67270 Rivera Manor,Williamchester,WI,53202,USA,(727)737-4625x01263,customer0011@example.com,33587.02,Net 30,2024-12-24,108,Small Business,Real Estate,Midwest,1
+12,Berry-Parks,Gloria Greene,13613 Jimenez Burg Apt. 499,West Tiffany,WI,99452,USA,294.379.5556,customer0012@example.com,52346.26,Net 30,2021-11-24,120,Design Services,Office,Midwest,1
+13,"Scott, Fowler and Green",Olivia Cochran,49779 West Course,Hernandezview,IL,73065,USA,376.729.0299x9117,customer0013@example.com,38718.99,Net 45,2019-06-23,84,Design Trade,Real Estate,Midwest,1
+14,Lewis and Sons,Kimberly Wolf,858 Phillip Plains Suite 825,South Patrick,IN,84036,USA,(429)632-8357x6755,customer0014@example.com,7636.62,Net 30,2019-12-05,108,Small Business,Office,Midwest,1
+15,Williamson Inc,Donna Myers,3236 Lisa Prairie Suite 160,North Lindsay,NY,04939,USA,(751)979-2846,customer0015@example.com,72250.28,Net 45,2020-04-11,108,Wholesale,Office,Northeast,1
+16,"Mitchell, Bennett and Gonzalez",Roger Schmidt,71521 Tammy Parkway,Port Wesley,NJ,56039,USA,9896633751,customer0016@example.com,86419.1,Net 30,2022-09-27,84,Design Trade,Hospitality,Northeast,1
+17,Calderon-Dickerson,Albert Wagner,7973 Kline Courts Apt. 372,Beverlyland,TN,92739,USA,6063391083,customer0017@example.com,117118.29,Net 45,2018-02-01,108,Design Services,Real Estate,South,1
+18,"Robinson, Freeman and Cunningham",Dwayne Grimes,3354 Joshua Cove,Schroedermouth,KY,78132,USA,351-337-7912x991,customer0018@example.com,168704.34,Net 30,2021-02-15,108,Wholesale,Hospitality,South,1
+19,Ortiz Group,Erika Hale,408 Gilmore Row,Ewingport,CO,26578,USA,001-416-397-4742x186,customer0019@example.com,133712.35,Net 45,2023-07-31,107,Wholesale,Hospitality,West,1
+20,Bailey Ltd,Tracy Stone,076 Salazar Points Apt. 890,West Jesus,KY,23553,USA,898.943.4858,customer0020@example.com,221348.99,Net 30,2016-10-13,84,Strategic,Real Estate,South,1
+21,Ellison Ltd,Kelly Thomas,757 Middleton Cove Apt. 639,West Thomas,PA,68446,USA,+1-365-948-6802,customer0021@example.com,121047.62,Net 45,2021-12-01,82,Wholesale,Office,Northeast,1
+22,Roman LLC,Daniel Patel,2753 Willie Pines Suite 176,Jessicamouth,NJ,55436,USA,540-598-4863x3865,customer0022@example.com,120381.37,Net 45,2024-02-20,6,Wholesale,Real Estate,Northeast,1
+23,Estes Inc,Bradley Rios,48135 Emma Groves Suite 056,Josephshire,PA,90234,USA,904-692-2004x62440,customer0023@example.com,116331.53,Net 60,2020-07-04,120,Wholesale,Retail,Northeast,1
+24,"Sanchez, Lee and Jones",Leslie Rodgers,3330 Porter Club Apt. 801,Foleyport,IN,89258,USA,(611)817-1025,customer0024@example.com,58146.44,Net 45,2023-05-20,107,Wholesale,Office,Midwest,1
+25,Larson Group,Ann Conway,8621 Bryant Union Apt. 103,Hayeston,TN,23032,USA,001-830-811-2512,customer0025@example.com,37895.03,Net 60,2022-11-05,108,Small Business,Interior Design,South,1
+26,Garcia-Joseph,Neil Henson,02085 Kathleen Knoll,North Laura,MI,06278,USA,+1-551-333-2294,customer0026@example.com,117997.0,Net 30,2020-01-22,120,Wholesale,Retail,Midwest,1
+27,Gonzalez LLC,Joanna Walker,7379 Terrell Road Apt. 442,Port Michele,TN,50306,USA,001-918-585-3293,customer0027@example.com,20613.2,Net 45,2021-01-02,107,Small Business,Hospitality,South,1
+28,"Stephens, Nichols and Deleon",James Sutton,6893 Cervantes Corners,Robertview,AZ,53439,USA,385.569.4696x79658,customer0028@example.com,21646.27,Net 30,2025-02-09,107,Small Business,Real Estate,West,1
+29,"Zamora, Thompson and Brooks",Justin Rojas,24339 Price Rapids Apt. 011,Alisonfort,MA,38836,USA,6606865345,customer0029@example.com,51972.11,Net 60,2020-10-31,107,Design Services,Office,Northeast,1
+30,Kelly-Moreno,Jacob Mason,491 Day Gardens,West Jennifer,AZ,30890,USA,+1-311-985-6676,customer0030@example.com,119489.02,Net 30,2023-07-04,107,Design Services,Interior Design,West,1
+31,Ramirez Group,Amanda Chapman,18828 Wright Heights,Kristinaview,IN,40641,USA,924.714.2478,customer0031@example.com,147758.19,Net 30,2023-07-30,6,Design Services,Real Estate,Midwest,1
+32,Mullen-Vincent,Jeffrey Rodriguez,242 Collins Brooks,West Kevin,CO,33506,USA,+1-498-742-9107x367,customer0032@example.com,150306.3,Net 30,2024-12-27,107,Wholesale,Interior Design,West,1
+33,"Schmidt, Smith and Villarreal",John Obrien,16678 Michael Falls,Jefferyview,OH,86357,USA,806.404.2914x92611,customer0033@example.com,92341.66,Net 30,2021-04-10,108,Design Trade,Real Estate,Midwest,1
+34,Bush-Hart,Anthony Davis,0691 Amber Unions Suite 013,Michaelhaven,CO,88204,USA,649.274.7827x67528,customer0034@example.com,131946.0,Net 45,2020-11-03,84,Strategic,Hospitality,West,1
+35,Mahoney-Browning,Hannah Tran,397 Herrera Spur Apt. 838,Port Mckenziebury,NY,65937,USA,+1-931-221-9791x965,customer0035@example.com,24578.46,Net 30,2018-02-08,84,Small Business,Office,Northeast,1
+36,"Nichols, Kelly and Williamson",Vanessa Davis,69846 Turner Unions,South David,NY,26509,USA,2828530582,customer0036@example.com,32995.98,Net 60,2019-10-08,82,Small Business,Retail,Northeast,1
+37,"Chapman, Walker and Campbell",Gabriel Garcia,361 Richard Lights Apt. 552,Garyhaven,OH,50262,USA,(274)892-5484x728,customer0037@example.com,159666.26,Net 45,2017-06-16,6,Wholesale,Real Estate,Midwest,1
+38,"Fox, Nelson and Richard",Adam Dennis,166 Baker Lights,East Jennifer,CA,97524,USA,001-674-965-1197x2892,customer0038@example.com,124583.65,Net 60,2020-07-05,107,Wholesale,Retail,West,1
+39,Reese and Sons,James Grant PhD,227 Warner Hills,Lake Jillianborough,IL,03193,USA,(868)907-9316,customer0039@example.com,142006.06,Net 30,2024-09-30,84,Design Services,Retail,Midwest,1
+40,"Swanson, Escobar and Werner",Penny Thompson,2816 Frank Shores,South Jeremiah,FL,63361,USA,220-976-2418,customer0040@example.com,15421.16,Net 30,2021-01-11,6,Small Business,Real Estate,South,1
+41,Harper-Kelly,Ryan Bailey,72242 Michael Points,Josephstad,CA,40157,USA,+1-788-817-0731,customer0041@example.com,24407.36,Net 45,2024-02-24,108,Small Business,Retail,West,1
+42,Hart and Sons,Patricia Barnes,718 Castillo Junctions,Lake Terri,NJ,52001,USA,001-339-505-0493x6024,customer0042@example.com,40604.89,Net 30,2017-11-07,6,Design Services,Office,Northeast,1
+43,Davidson-Riley,Dr. David Nichols,5144 Smith Junctions,Lawsonland,IN,14027,USA,849-785-4086,customer0043@example.com,53114.95,Net 30,2017-03-31,82,Wholesale,Hospitality,Midwest,1
+44,"Wright, Johnson and Frye",Pamela Mason,9243 Sawyer Forge Suite 633,Josephhaven,KY,30813,USA,594.847.3501,customer0044@example.com,112575.57,Net 30,2016-12-23,120,Wholesale,Hospitality,South,1
+45,Alvarez-Smith,Victoria Hurley,8879 Dominguez Mission,Rachaelmouth,GA,16173,USA,+1-237-244-4878,customer0045@example.com,29673.47,Net 45,2020-09-29,84,Design Trade,Interior Design,South,1
+46,"Gutierrez, Bell and Sanders",Jacob Lawrence,0185 Steven Tunnel,Youngstad,NY,68103,USA,+1-834-984-7356x58798,customer0046@example.com,55681.79,Net 30,2020-02-09,6,Design Trade,Interior Design,Northeast,1
+47,Singh Group,David Robinson,8168 Mitchell Vista,Priceland,OR,15316,USA,001-499-375-7002x2004,customer0047@example.com,9613.53,Net 90,2023-03-13,120,Small Business,Interior Design,West,1
+48,Rosales Group,Jorge Hall,978 Krause Wells,Angelaborough,NY,28459,USA,201.732.0254x054,customer0048@example.com,82397.53,Net 30,2021-05-08,108,Design Services,Office,Northeast,1
+49,"Taylor, Beltran and Clark",Denise Andrews,88110 Hicks Ford Apt. 534,North Justintown,AZ,58375,USA,727.754.6646x485,customer0049@example.com,69557.77,Net 30,2024-02-24,82,Design Trade,Hospitality,West,1
+50,Lopez-Scott,Alicia Rosales,6614 Taylor Harbor,Sheriview,KY,27302,USA,001-733-690-0823x0282,customer0050@example.com,27938.61,Net 30,2024-12-01,82,Small Business,Retail,South,1
+51,Robinson-Randall,Marcus Green,392 Martin Loaf,South Jacob,OH,40607,USA,680-446-3284x310,customer0051@example.com,265580.49,Net 60,2023-01-21,6,Strategic,Hospitality,Midwest,1
+52,"James, Gill and Campbell",Jenna Monroe MD,664 Patricia Neck Apt. 159,Christopherland,IL,98341,USA,+1-469-449-0249x18146,customer0052@example.com,34690.2,Net 90,2016-11-04,84,Design Trade,Office,Midwest,1
+53,Vaughn Group,James Wade,20772 Corey Inlet Apt. 858,Port Samanthaborough,TN,50292,USA,710-649-6601x87716,customer0053@example.com,8642.94,Net 45,2024-12-16,6,Small Business,Hospitality,South,1
+54,Arroyo Inc,Mr. William Harris,03751 Medina Gateway Suite 873,North James,OH,07471,USA,572.270.1106x12134,customer0054@example.com,17833.8,Net 45,2024-01-24,108,Small Business,Retail,Midwest,1
+55,Reyes LLC,Travis Ellis,1546 Fisher Rapid Suite 066,Haleymouth,PA,02968,USA,(231)718-1564x164,customer0055@example.com,102608.87,Net 30,2021-05-23,108,Wholesale,Hospitality,Northeast,1
+56,"Jensen, Carroll and Gonzales",Paul Moore,29170 Mia Square,Keithburgh,KY,51032,USA,+1-846-666-8093,customer0056@example.com,21197.47,Net 30,2017-09-07,82,Small Business,Real Estate,South,1
+57,Green LLC,Cody Ford,4384 Brenda Road Suite 530,Lake Thomashaven,IL,82440,USA,+1-381-940-4258x966,customer0057@example.com,89975.86,Net 60,2021-01-06,120,Design Services,Real Estate,Midwest,1
+58,Smith-Fisher,Susan Norris,6619 Beard Motorway Apt. 321,Porterbury,FL,58235,USA,3305910901,customer0058@example.com,31151.01,Net 30,2022-07-12,107,Small Business,Office,South,1
+59,Krueger-Serrano,Cheryl Martin,055 Kelly Burgs Suite 105,Osbornemouth,CA,69056,USA,+1-291-366-0302x09340,customer0059@example.com,19409.88,Net 60,2018-04-20,107,Small Business,Office,West,1
+60,Stewart PLC,Thomas Nixon,526 Burns Groves,New Kathy,MA,16455,USA,001-260-225-4416,customer0060@example.com,156567.39,Net 45,2024-07-10,107,Wholesale,Retail,Northeast,1
+61,"Webb, Melendez and Warner",Kyle Ramirez,744 Aaron Well,Port Jonathanton,AZ,40001,USA,001-605-995-0746x007,customer0061@example.com,125008.19,Net 30,2019-07-12,84,Design Services,Retail,West,1
+62,Davis-Young,David Moore,73523 George Mission Suite 466,North Nicholasstad,KY,80889,USA,(960)511-4287x386,customer0062@example.com,129970.12,Net 30,2023-06-23,120,Wholesale,Hospitality,South,1
+63,Hunter-Hamilton,Richard Turner,69475 Amy Expressway,Port Ianside,OR,87784,USA,(467)385-3027x079,customer0063@example.com,82287.7,Net 30,2023-07-14,84,Design Trade,Hospitality,West,1
+64,"Young, Baker and Wilson",Anita Moore,3549 George Ridges,Howardmouth,IN,55336,USA,+1-550-610-5710x516,customer0064@example.com,36855.87,Net 30,2017-05-21,82,Small Business,Retail,Midwest,1
+65,Bailey-Lewis,Laurie Crosby,113 Villegas Brook,Lake Kristy,FL,49557,USA,344.459.5285x4354,customer0065@example.com,67531.75,Net 45,2024-06-24,82,Wholesale,Retail,South,1
+66,Nguyen Ltd,Kaitlyn Freeman,095 Shelton Groves,Lake Anthony,IN,50924,USA,404.947.2432x3667,customer0066@example.com,23865.98,Net 30,2020-09-05,84,Small Business,Retail,Midwest,1
+67,"Roth, Barton and Leach",William Spears,89716 Calderon Creek,Port Marilynland,FL,40881,USA,(347)661-3922,customer0067@example.com,84945.93,Net 60,2023-02-14,120,Design Trade,Retail,South,1
+68,Gillespie-Walker,Brittany Rhodes,7625 Jeanne Drive Suite 981,East Melinda,OH,66131,USA,496-743-0389,customer0068@example.com,131567.68,Net 30,2018-06-07,84,Wholesale,Real Estate,Midwest,1
+69,"Miller, Wolf and Anderson",Timothy Jones,0013 Carrillo Village Suite 748,Laurastad,NY,89081,USA,+1-435-375-4337x144,customer0069@example.com,51057.53,Net 60,2024-06-10,107,Design Trade,Retail,Northeast,1
+70,Oconnor-Ortiz,Matthew Castro,2435 Leah Branch Suite 383,New Jasonbury,FL,77525,USA,+1-933-667-4265x063,customer0070@example.com,93796.52,Net 30,2020-05-04,84,Design Trade,Office,South,1
+71,Barker PLC,Kayla Mitchell,324 Barry Lakes Apt. 205,Walterfort,CO,87350,USA,966-722-3654x1767,customer0071@example.com,158223.09,Net 30,2016-07-07,6,Wholesale,Office,West,1
+72,Dougherty PLC,Beverly Thomas,939 Brown Roads Apt. 181,Kendraland,OR,05110,USA,+1-977-674-9890x949,customer0072@example.com,151000.87,Net 45,2020-08-09,120,Wholesale,Retail,West,1
+73,Perez-Smith,Samantha Jones,8573 George Dale Apt. 044,Jenniferburgh,NJ,05685,USA,001-222-508-4462x6313,customer0073@example.com,101593.28,Net 60,2023-02-27,120,Wholesale,Interior Design,Northeast,1
+74,"Mason, Lee and Cortez",Carl Smith,7743 Chandler Tunnel Suite 439,West Thomas,NY,28940,USA,691.663.6311,customer0074@example.com,87346.92,Net 30,2023-09-04,120,Design Trade,Office,Northeast,1
+75,Roberts-David,Rachel Ferguson DVM,941 Graham Harbor Suite 014,Port Jacobport,NC,21953,USA,(694)923-7275,customer0075@example.com,59499.86,Net 60,2017-08-21,84,Design Trade,Hospitality,South,1
+76,Dalton-Jackson,Angela Oconnor,8933 Aguirre Trace Apt. 632,Joshuaborough,WA,57574,USA,(975)735-5872,customer0076@example.com,21139.55,Net 30,2017-02-08,107,Small Business,Retail,West,1
+77,Russell PLC,Eric Gonzales,4348 Alan Causeway Apt. 113,Sanchezside,MA,16767,USA,4006487749,customer0077@example.com,118876.72,Net 45,2017-10-19,107,Design Services,Retail,Northeast,1
+78,"Eaton, Robertson and Grant",Jennifer Carter,1772 Ward Station Suite 389,Susantown,AZ,12688,USA,001-509-318-9973x6918,customer0078@example.com,306536.06,Net 45,2019-04-14,6,Strategic,Hospitality,West,1
+79,Fields-Middleton,Hunter White,574 Michael Burg Apt. 295,Lake Michaelmouth,OH,35122,USA,700-788-7562x31902,customer0079@example.com,38906.17,Net 60,2022-08-31,107,Design Trade,Hospitality,Midwest,1
+80,Burton-Beard,Daniel Young,2215 Valerie Crossroad Apt. 556,Stewartside,MI,10306,USA,+1-581-788-0866x4778,customer0080@example.com,149632.34,Net 30,2018-09-20,82,Wholesale,Interior Design,Midwest,1
+81,Koch-Ali,Caleb Johnson,32988 Lopez Pine Apt. 498,Port Kevinshire,CO,77883,USA,(437)565-5610,customer0081@example.com,62223.98,Net 60,2017-02-05,107,Wholesale,Office,West,1
+82,Phillips Inc,Luis Payne,6409 Williams Oval,Johnfurt,NC,56816,USA,740-244-1171x447,customer0082@example.com,26891.82,Net 45,2020-12-01,82,Design Trade,Interior Design,South,1
+83,"Bryant, Day and Rivera",Adam Stanton,651 Kelly Mission,Millermouth,NC,02123,USA,(927)651-1256,customer0083@example.com,119253.24,Net 30,2019-11-29,107,Wholesale,Hospitality,South,1
+84,Robinson-Mullins,Preston Jones,4182 Chavez Rapid Suite 646,Port Meghanstad,MA,69241,USA,001-597-516-9281x8949,customer0084@example.com,62338.13,Net 60,2025-03-03,82,Design Trade,Real Estate,Northeast,1
+85,"Miller, Johnson and Marshall",Erin Miller,280 Donald Plaza Suite 985,Bowersberg,MA,31432,USA,333.621.9087x0128,customer0085@example.com,46351.93,Net 45,2024-02-04,82,Design Services,Interior Design,Northeast,1
+86,"Robinson, Phillips and Williams",Luke Jones,945 Timothy Trail Suite 516,North Allen,OR,03653,USA,001-443-319-2557x927,customer0086@example.com,113820.64,Net 45,2023-01-21,84,Wholesale,Hospitality,West,1
+87,Baldwin Group,Jose Webb,3456 Smith Lock Suite 747,South Joseport,NC,38657,USA,+1-638-899-3160x1702,customer0087@example.com,135369.58,Net 30,2023-11-18,82,Strategic,Office,South,1
+88,"Flores, Erickson and Black",Mrs. Angel Cooper,8254 Troy Islands,East Laurenfurt,WA,94687,USA,(655)661-0446,customer0088@example.com,54370.31,Net 45,2023-08-13,84,Design Trade,Real Estate,West,1
+89,Hayes-Bass,Rebecca Coffey MD,7563 Farmer Highway,Hernandezland,NC,32013,USA,569-339-0239x1298,customer0089@example.com,32809.95,Net 45,2018-09-27,6,Small Business,Retail,South,1
+90,Armstrong PLC,Sarah Garrison,54438 Brandon Divide Apt. 604,South Karenville,KY,54950,USA,903-975-4966x415,customer0090@example.com,118371.07,Net 45,2024-02-05,6,Wholesale,Real Estate,South,1
+91,Hurst-Merritt,Christina Burch,3577 Stephen Ports Apt. 813,Thompsonbury,WI,81024,USA,638.693.7347,customer0091@example.com,33201.61,Net 45,2021-02-28,120,Small Business,Real Estate,Midwest,1
+92,Russell-Vance,Michele Sawyer,6965 Lynn Underpass Apt. 497,Stewartland,NY,82376,USA,001-786-463-0697,customer0092@example.com,69193.83,Net 90,2020-08-07,6,Design Services,Hospitality,Northeast,1
+93,"Rodriguez, Hernandez and Carpenter",Angela Cortez MD,945 Taylor Expressway,Reginaldbury,FL,87087,USA,+1-764-857-2561,customer0093@example.com,35432.0,Net 30,2022-10-22,6,Small Business,Office,South,1
+94,King Group,Vanessa Lopez,7409 Joseph Oval Apt. 250,Lanemouth,MA,31673,USA,+1-683-565-9475x568,customer0094@example.com,7750.05,Net 30,2024-09-14,120,Small Business,Real Estate,Northeast,1
+95,Harmon-Meyers,Marcus Flores,1220 Pamela Plaza Apt. 090,Lake Jenniferbury,MA,24164,USA,329-679-2734,customer0095@example.com,122305.87,Net 45,2020-02-22,84,Wholesale,Office,Northeast,1
+96,Rodriguez and Sons,Eric Vasquez,609 Perry Camp,North Matthew,NJ,67358,USA,(792)639-3829x126,customer0096@example.com,135682.69,Net 30,2018-12-26,108,Wholesale,Retail,Northeast,1
+97,"Jackson, Wade and Carter",Joseph Kennedy,69421 Candace Row,Michaelport,GA,46056,USA,4845519879,customer0097@example.com,27922.02,Net 45,2022-04-02,6,Small Business,Office,South,1
+98,"Thompson, Warren and Leblanc",Matthew Lopez,7207 Andrea Alley Suite 946,South Joshua,PA,37365,USA,+1-447-682-8287,customer0098@example.com,109316.35,Net 45,2017-06-21,82,Wholesale,Real Estate,Northeast,1
+99,"Olson, Mcgrath and Duffy",Kristopher Roberts,83687 Denise Mountain,East Linda,MA,27118,USA,001-687-618-7508x403,customer0099@example.com,95207.78,Net 60,2017-07-09,6,Design Trade,Interior Design,Northeast,1
+100,"Moore, Escobar and Werner",Heather Best,3291 Rivers Terrace Suite 317,Williamville,MA,74663,USA,(863)578-4294,customer0100@example.com,59745.65,Net 60,2019-05-13,6,Design Trade,Hospitality,Northeast,1
+101,"King, Smith and Freeman",Donald Crawford,613 Evans Mission,Wadeton,OH,37847,USA,(679)461-9597x2037,customer0101@example.com,59222.7,Net 45,2024-06-01,84,Design Trade,Interior Design,Midwest,1
+102,"Atkins, Garrett and Smith",Stephen Wood,924 Charles Junction,Sharpview,OH,51603,USA,734.933.5134x333,customer0102@example.com,90425.61,Net 60,2017-08-12,6,Design Trade,Retail,Midwest,1
+103,Garcia-Hutchinson,Jose Salinas,1519 Horton Park Apt. 896,West Jean,MA,57706,USA,+1-307-519-2894x1140,customer0103@example.com,19014.77,Net 30,2023-03-21,120,Small Business,Real Estate,Northeast,1
+104,Young Group,Claudia Vaughn,8130 Woods Prairie,Millerbury,PA,62844,USA,685-419-5812,customer0104@example.com,168215.56,Net 30,2024-09-30,84,Wholesale,Retail,Northeast,1
+105,"Estrada, White and Keller",Megan Smith,480 Rodriguez Extensions Suite 744,Kristaburgh,IL,47056,USA,630.628.7946,customer0105@example.com,157972.45,Net 45,2017-03-21,82,Wholesale,Retail,Midwest,1
+106,"Richardson, Porter and Chavez",Jennifer Collins,1183 Nancy Mountains Apt. 838,Lake Corey,NY,72485,USA,430-914-9460x1982,customer0106@example.com,136716.59,Net 30,2019-06-01,6,Strategic,Retail,Northeast,1
+107,Johnson-King,Kimberly Vega,95224 Ashley Light,South Melinda,NJ,46002,USA,349.835.7831,customer0107@example.com,8929.6,Net 30,2023-06-13,82,Small Business,Real Estate,Northeast,1
+108,Anderson-Acevedo,Maria Becker,4704 Morris Manors,Port Laurentown,IL,95975,USA,202.213.5675,customer0108@example.com,146756.16,Net 30,2021-01-15,82,Design Services,Hospitality,Midwest,1
+109,"Olsen, Cruz and Frazier",Emma Montes,6581 Luis Crescent Apt. 422,North Stephenmouth,IN,53234,USA,9878749890,customer0109@example.com,111778.92,Net 30,2021-01-27,84,Wholesale,Retail,Midwest,1
+110,Rangel Ltd,Jade Williams,597 Mcbride Curve,Staceyside,OR,74316,USA,(781)833-0503x10253,customer0110@example.com,144652.78,Net 30,2017-05-16,82,Wholesale,Real Estate,West,1
+111,Haas PLC,Robin Norman,8744 Jill Islands Apt. 951,East Mark,AZ,38647,USA,634.293.1464x3408,customer0111@example.com,12282.16,Net 30,2025-02-20,107,Small Business,Real Estate,West,1
+112,Irwin LLC,Diane Hernandez,26943 Lindsey Pines,Fosterville,OR,25063,USA,254-421-6104,customer0112@example.com,27842.65,Net 45,2024-08-31,108,Small Business,Interior Design,West,1
+113,Lee-Clayton,Heather Rowe,7689 Waters Club Apt. 169,Murraytown,NY,10879,USA,2196951424,customer0113@example.com,142446.77,Net 30,2017-03-22,120,Wholesale,Office,Northeast,1
+114,Gonzalez Inc,Jordan Hernandez,2998 Allison Track,West Toddchester,GA,05441,USA,7502722353,customer0114@example.com,22414.23,Net 45,2021-11-27,84,Small Business,Real Estate,South,1
+115,Miller-Larson,Kristin Johnson,91368 Rebecca Lake,South Craig,GA,38299,USA,231-760-8334x16254,customer0115@example.com,85722.32,Net 30,2021-03-06,6,Wholesale,Retail,South,1
+116,Parker and Sons,Joshua Alvarado,021 Wright Rapids Suite 274,Jamesshire,AZ,66228,USA,884.927.6514x2553,customer0116@example.com,87513.08,Net 30,2017-08-06,120,Wholesale,Interior Design,West,1
+117,Clayton-Duffy,Dr. Katherine Steele,36776 Choi Well,Nathanborough,FL,92914,USA,(289)820-1485,customer0117@example.com,30387.5,Net 45,2018-04-24,120,Design Trade,Hospitality,South,1
+118,Combs-Valdez,Michael Rodriguez,8761 Jackson Trafficway Suite 145,Montoyatown,MI,38015,USA,727-930-2588,customer0118@example.com,111428.86,Net 30,2024-09-20,120,Wholesale,Retail,Midwest,1
+119,West-Mcclure,Beverly Anderson,3766 Sutton Row Suite 892,Jenniferside,NY,76933,USA,001-962-815-8414x34579,customer0119@example.com,92971.89,Net 60,2024-10-17,107,Wholesale,Office,Northeast,1
+120,Hubbard Inc,Gary Stewart,9893 Bradley Rest Apt. 207,Fishermouth,AZ,26783,USA,(358)301-6150x4874,customer0120@example.com,42432.9,Net 30,2023-02-07,6,Design Trade,Real Estate,West,1
+121,Larson-Bean,Eric Adams,0528 Evan Fort Apt. 513,West Reneeland,IL,49765,USA,+1-730-577-9022x7598,customer0121@example.com,81840.56,Net 30,2022-07-04,120,Design Trade,Office,Midwest,1
+122,Moore-Johnson,Lisa Moore,31176 Hughes Camp,Kylestad,PA,56767,USA,249-401-5460,customer0122@example.com,26772.68,Net 30,2024-12-16,82,Small Business,Interior Design,Northeast,1
+123,"Frazier, Patton and Williams",Monica Roberson,8185 Sarah Parkway,East Rachelton,TN,71381,USA,(651)649-5237,customer0123@example.com,62385.85,Net 30,2024-04-16,108,Design Trade,Office,South,1
+124,"Mcintyre, Harrington and Everett",Michael Smith,609 Adkins Junction Apt. 881,South Josephville,WI,54577,USA,001-429-780-4687x3040,customer0124@example.com,80528.3,Net 60,2020-01-17,6,Wholesale,Office,Midwest,1
+125,Tucker Ltd,Ashley Smith,2693 Barton Fields,Bishoptown,FL,69107,USA,+1-862-551-3802,customer0125@example.com,134687.4,Net 30,2023-10-27,84,Wholesale,Hospitality,South,1
+126,"Mccarthy, Smith and Mendez",Andre Perez,6101 Lisa Crossing Apt. 723,Villarrealview,PA,05002,USA,+1-241-928-3566x3608,customer0126@example.com,37566.19,Net 90,2022-01-18,82,Small Business,Office,Northeast,1
+127,"Lloyd, Mitchell and Pennington",Christina Stephens,17802 Brandy Flats Apt. 684,Richardburgh,WA,40377,USA,001-904-570-8415x736,customer0127@example.com,105026.14,Net 30,2023-08-09,6,Design Services,Real Estate,West,1
+128,Rodriguez Ltd,Charles Green,9979 Phillip Causeway,South Michelle,WI,20303,USA,+1-968-689-7103,customer0128@example.com,300148.14,Net 45,2018-04-12,107,Strategic,Real Estate,Midwest,1
+129,"Patel, Nash and Hoffman",Denise Brooks,34688 Peter Hollow,West Erikaland,WA,11390,USA,625-557-7888x879,customer0129@example.com,297195.62,Net 60,2023-06-27,120,Strategic,Real Estate,West,1
+130,"Jones, Richardson and Beard",Hannah Sherman,723 Kelly Parkways,Williamsshire,OH,87715,USA,+1-651-499-9567x7613,customer0130@example.com,67933.51,Net 45,2022-11-15,84,Design Trade,Office,Midwest,1
+131,Johnson-Contreras,Craig Montgomery,26094 Wendy Brook Suite 657,Newmanstad,NC,64137,USA,(398)256-9425x442,customer0131@example.com,60857.5,Net 60,2024-12-06,120,Wholesale,Interior Design,South,1
+132,Ellis-Murphy,Michael Jackson,028 Linda Court,Olsonborough,IN,95082,USA,629.399.1976x894,customer0132@example.com,9268.92,Net 90,2019-10-01,120,Small Business,Office,Midwest,1
+133,Henry-Garcia,Annette Williams,310 Harold Estates,Jeremyshire,IL,11024,USA,+1-768-421-7355,customer0133@example.com,112620.14,Net 45,2020-08-20,6,Wholesale,Retail,Midwest,1
+134,Peters-Gray,Charles Thornton,2427 Douglas Pines Apt. 913,Guzmanshire,GA,93158,USA,(545)618-4936x6615,customer0134@example.com,29579.78,Net 45,2020-08-21,82,Small Business,Interior Design,South,1
+135,Sullivan-Mcdonald,Elizabeth Vargas,97701 Sabrina Dam Apt. 589,Coxport,NY,48361,USA,551.481.4676,customer0135@example.com,145443.27,Net 45,2017-10-22,108,Wholesale,Real Estate,Northeast,1
+136,Glenn-Estrada,Jacqueline Wilson MD,56635 Jeanette Cape Apt. 438,Jennifermouth,IN,61293,USA,394.482.1002x480,customer0136@example.com,348394.4,Net 45,2017-02-10,107,Strategic,Office,Midwest,1
+137,Owens Group,Kelly Hart,7352 Jackson Locks,Lake Kim,TN,32811,USA,967.544.0631x172,customer0137@example.com,153895.69,Net 30,2017-09-27,120,Wholesale,Interior Design,South,1
+138,Wright PLC,Mary Adams,9527 Kevin Inlet,Gabrielland,WI,97041,USA,778.933.2893x045,customer0138@example.com,286607.41,Net 90,2016-08-06,120,Strategic,Real Estate,Midwest,1
+139,"Thompson, Rosario and Castillo",Sheri Adams,185 Morris Path Apt. 497,West Suzanne,NC,87728,USA,644-686-1768x0781,customer0139@example.com,87509.22,Net 30,2018-07-02,107,Wholesale,Real Estate,South,1
+140,Ruiz-Pratt,Carla Erickson,32407 Middleton Glen Apt. 076,Deanfurt,MI,13135,USA,001-401-670-7669x89480,customer0140@example.com,88658.94,Net 45,2022-08-15,107,Design Trade,Office,Midwest,1
+141,Sanchez LLC,Shirley Hart,7895 Lopez Rest Suite 225,Jenniferhaven,MI,46976,USA,001-600-570-1249,customer0141@example.com,326717.06,Net 45,2025-03-08,84,Strategic,Hospitality,Midwest,1
+142,Jenkins PLC,Sharon Estrada,8544 Hanson Stream Apt. 700,Montgomeryton,NY,38023,USA,552.800.4925x28955,customer0142@example.com,23098.88,Net 60,2021-09-28,84,Small Business,Real Estate,Northeast,1
+143,Davis PLC,Abigail Smith,811 Wilson Meadow Apt. 629,New Kelseyberg,CO,61977,USA,539-300-5635,customer0143@example.com,112507.22,Net 60,2020-04-19,6,Design Services,Retail,West,1
+144,"Roach, Walton and Logan",Richard Parker,50958 Davenport Oval Apt. 315,Stevensberg,MA,00997,USA,7204292305,customer0144@example.com,137165.06,Net 30,2022-10-09,107,Wholesale,Hospitality,Northeast,1
+145,Nichols Ltd,Andrew Mckinney,3158 Eileen Row,Edwardbury,MI,91428,USA,+1-618-518-0432x602,customer0145@example.com,35002.55,Net 60,2018-01-08,108,Design Trade,Retail,Midwest,1
+146,Horton and Sons,Mary Kelley,970 Corey Lake Apt. 797,East Deannashire,IN,39737,USA,538-884-8973,customer0146@example.com,172210.74,Net 30,2017-11-05,108,Wholesale,Retail,Midwest,1
+147,Young-Rodriguez,Teresa Perez,4246 Hurley Pine Suite 974,Villegasshire,NJ,03452,USA,001-262-738-9904x9946,customer0147@example.com,85555.8,Net 30,2022-12-07,84,Design Trade,Interior Design,Northeast,1
+148,Santos-Salazar,David Rich,76871 Moore Parks,East Devin,NJ,22273,USA,583.564.1385,customer0148@example.com,11868.51,Net 60,2019-02-26,84,Small Business,Retail,Northeast,1
+149,Osborne LLC,Jennifer Carroll,781 Meghan Inlet Suite 622,North Maria,AZ,09501,USA,001-995-846-0468x671,customer0149@example.com,40373.28,Net 30,2018-10-19,108,Design Trade,Interior Design,West,1
+150,"Cox, Avila and Patel",Lindsey Shelton,2625 Palmer Pines Suite 800,East Ethanland,MA,53328,USA,+1-377-817-4185x193,customer0150@example.com,97222.78,Net 30,2020-01-17,108,Design Trade,Office,Northeast,1
+151,Reed Inc,Leah Kane,573 Diane Lake,Melodyview,MA,52672,USA,953-993-5965x69346,customer0151@example.com,38879.32,Net 45,2022-01-26,84,Design Trade,Interior Design,Northeast,1
+152,Garcia Inc,Alison Lewis,57757 Martin Prairie Suite 600,Port Stephanie,NC,67869,USA,785-763-6938x5250,customer0152@example.com,95919.24,Net 30,2020-01-14,82,Wholesale,Office,South,1
+153,Jones-Smith,Dana Lozano,420 Palmer Neck Apt. 579,Christianbury,IN,92371,USA,(519)695-6340,customer0153@example.com,30340.5,Net 60,2018-07-02,6,Small Business,Office,Midwest,1
+154,Fernandez-Preston,Abigail Butler,59377 Brown Rapids,Bankstown,WI,22859,USA,(835)758-8906x665,customer0154@example.com,52716.93,Net 30,2020-07-28,82,Design Trade,Interior Design,Midwest,1
+155,Warren Group,Ryan Hogan,852 Johnson Wells Suite 024,West David,IN,42110,USA,475-292-5558x238,customer0155@example.com,75899.94,Net 30,2020-02-26,6,Design Trade,Real Estate,Midwest,1
+156,Bullock-Hernandez,Brianna Moyer,633 Alyssa Fields,North Chelseatown,MA,45767,USA,364.520.9988x366,customer0156@example.com,274229.13,Net 30,2016-12-09,84,Strategic,Office,Northeast,1
+157,Ball-Dickerson,Mrs. Tracy Coleman PhD,365 Ashley Burg,Kathleenchester,NY,90299,USA,733-481-0959x83530,customer0157@example.com,15219.05,Net 30,2018-12-23,108,Small Business,Retail,Northeast,1
+158,Charles LLC,Brian Nichols,656 Jane Mews Suite 389,Bondmouth,FL,46502,USA,+1-755-400-1984x62183,customer0158@example.com,85509.87,Net 60,2020-08-08,107,Design Services,Hospitality,South,1
+159,Moyer Ltd,Theresa Maldonado,37307 Ashley Parkways Suite 231,Meghanport,MI,80794,USA,001-386-443-5264x744,customer0159@example.com,138316.79,Net 30,2020-08-29,82,Wholesale,Hospitality,Midwest,1
+160,Diaz LLC,Darren Jackson,999 Paula Harbor,Port Michaelton,NJ,41880,USA,926.694.0647,customer0160@example.com,12301.72,Net 30,2020-04-19,120,Small Business,Real Estate,Northeast,1
+161,Torres-Ellis,Samuel Williams,70724 Shawn Lane Apt. 822,Katelynmouth,NC,14001,USA,(582)848-2269x612,customer0161@example.com,221526.21,Net 60,2017-01-31,82,Strategic,Hospitality,South,1
+162,"French, Sandoval and Everett",Timothy Hernandez,12193 Higgins Courts,New Ryan,GA,04493,USA,711-423-6507x19477,customer0162@example.com,138696.1,Net 45,2023-01-11,84,Wholesale,Interior Design,South,1
+163,"Blair, Gross and Webb",Evan Wall,075 Jessica Ridges Apt. 516,North Gloria,TN,11919,USA,+1-260-959-8458x55447,customer0163@example.com,8419.2,Net 30,2022-02-10,82,Small Business,Interior Design,South,1
+164,Ross-Hampton,Deborah Stein,97630 King Hills Apt. 658,Davischester,MA,75547,USA,001-778-644-2203,customer0164@example.com,15790.27,Net 30,2021-04-16,84,Small Business,Hospitality,Northeast,1
+165,Perez-Donaldson,Adam Small,6718 Pedro Loop,Ayerschester,NJ,39867,USA,(773)586-3093,customer0165@example.com,7864.91,Net 90,2021-05-15,108,Small Business,Interior Design,Northeast,1
+166,"Knapp, King and Ortega",Kimberly Chavez,7245 Patrick Mountain,Andrealand,GA,61982,USA,(482)482-2683,customer0166@example.com,59444.16,Net 45,2021-02-24,6,Wholesale,Office,South,1
+167,"Graham, Williams and Miranda",Jaime Pearson,67143 Martinez Cape,Virginiaborough,PA,79341,USA,468-349-1025,customer0167@example.com,37576.38,Net 45,2025-03-30,107,Small Business,Retail,Northeast,1
+168,Jenkins Ltd,Stacy Jones,6744 Debra Keys,East Patricia,WA,21990,USA,(236)578-7370,customer0168@example.com,11873.67,Net 60,2023-08-02,107,Small Business,Real Estate,West,1
+169,Miller-Hernandez,Michael Mccarthy,2643 Jacob Dam,North Matthewbury,NC,41439,USA,(237)546-8933x3062,customer0169@example.com,125394.78,Net 60,2022-09-30,108,Strategic,Real Estate,South,1
+170,Smith Ltd,Steven Scott,66804 Jim Route Suite 497,Rachelberg,PA,42988,USA,+1-636-842-8208x7574,customer0170@example.com,29895.44,Net 45,2019-12-31,107,Small Business,Real Estate,Northeast,1
+171,"Torres, Hoover and Ortiz",Courtney Carpenter,9187 Jeffrey Wells,Port Brittanyton,MI,96522,USA,218.284.1753,customer0171@example.com,94241.15,Net 60,2017-03-27,107,Design Trade,Hospitality,Midwest,1
+172,Ibarra Ltd,Nicole Thomas,9304 Jones Isle,West James,TN,99330,USA,+1-814-860-9059x24514,customer0172@example.com,104132.6,Net 60,2020-03-06,84,Wholesale,Real Estate,South,1
+173,Brown LLC,Mandy Peterson,541 Davidson Fords,Kingfurt,IN,19737,USA,4906691326,customer0173@example.com,173093.23,Net 60,2023-09-11,84,Strategic,Retail,Midwest,1
+174,"Werner, Davis and Anderson",Amy Mathis,44215 Rice Port,Port Christine,FL,63150,USA,533.579.3200,customer0174@example.com,123698.26,Net 60,2023-05-03,82,Wholesale,Real Estate,South,1
+175,"King, Fleming and Hahn",George Kelley,207 Suzanne Underpass Apt. 854,Abigailport,OH,25118,USA,001-551-579-2132x3191,customer0175@example.com,13153.15,Net 60,2019-01-24,6,Small Business,Hospitality,Midwest,1
+176,"Church, Phillips and Hunt",Tiffany Paul,762 Francis Field,Lake Ronaldbury,AZ,70103,USA,001-404-940-6747x6095,customer0176@example.com,97958.9,Net 30,2019-11-19,108,Design Trade,Interior Design,West,1
+177,Green-Villanueva,Megan Sanders,7050 Lambert Springs,South Jonathanbury,NC,06149,USA,923-933-9681,customer0177@example.com,94304.48,Net 60,2019-02-10,84,Wholesale,Real Estate,South,1
+178,Harris-Duncan,Jennifer Dawson,676 Parsons Bridge,South Hannah,OH,27063,USA,251-702-7349,customer0178@example.com,39260.13,Net 30,2019-04-21,82,Small Business,Real Estate,Midwest,1
+179,"Thompson, Nixon and Wilson",Donald Clark,332 John Union,Leeville,WI,63450,USA,845-364-6612x984,customer0179@example.com,148918.8,Net 30,2022-03-22,108,Strategic,Real Estate,Midwest,1
+180,Tate and Sons,Curtis Case,85595 Hayes Drive,South Charlestown,MA,03750,USA,(297)652-6292x16609,customer0180@example.com,98417.0,Net 60,2019-08-06,120,Wholesale,Interior Design,Northeast,1
+181,Anderson Group,Jennifer Steele,601 Mark Land,Mossstad,WA,44975,USA,(740)480-0621x1120,customer0181@example.com,165128.0,Net 30,2020-10-11,120,Wholesale,Retail,West,1
+182,Aguilar-Gonzalez,Jerome Smith,16284 Rivera Ridges,Elizabethside,WI,91800,USA,001-617-355-3415x316,customer0182@example.com,125446.55,Net 60,2019-01-22,82,Wholesale,Hospitality,Midwest,1
+183,"Reynolds, Brennan and King",John Owen,06086 Jackson Corners,Lake Marisa,MA,46513,USA,545-379-0058x9098,customer0183@example.com,93753.77,Net 90,2019-11-04,82,Design Trade,Office,Northeast,1
+184,"Brady, Griffin and Charles",James Pace,01619 Howe Crest Apt. 378,New Maria,WI,54124,USA,+1-260-693-7931x28307,customer0184@example.com,173122.8,Net 45,2019-07-31,6,Wholesale,Hospitality,Midwest,1
+185,Meyer-Mcdonald,Tanner Wright,114 Lucero View Apt. 443,Port Jamesstad,IL,01793,USA,501-896-1468x708,customer0185@example.com,169013.09,Net 45,2017-12-23,84,Wholesale,Interior Design,Midwest,1
+186,"Smith, James and Burgess",Stacie Cole,08632 Brennan Harbors Suite 070,Smithton,PA,73522,USA,446.246.2978x881,customer0186@example.com,127591.32,Net 60,2019-05-09,107,Wholesale,Real Estate,Northeast,1
+187,Olson-Young,Paul Taylor,10669 Burgess Drive,Rebeccamouth,CO,37482,USA,5803844220,customer0187@example.com,103660.3,Net 30,2019-02-14,6,Wholesale,Retail,West,1
+188,Walker Ltd,Suzanne Baker,8306 Smith Fall Suite 551,Port Christopher,OR,55764,USA,001-733-826-4440,customer0188@example.com,162804.48,Net 30,2016-10-16,6,Wholesale,Hospitality,West,1
+189,Ramirez Inc,Zachary Gordon,072 Sonya Spur,Johnhaven,MI,51051,USA,(855)424-0764,customer0189@example.com,142401.18,Net 60,2018-09-15,82,Wholesale,Hospitality,Midwest,1
+190,Stanton-Foster,Alicia Schaefer,5879 Ethan Fall Suite 743,East Alexander,FL,98799,USA,801.537.9741x2500,customer0190@example.com,63318.19,Net 60,2017-01-31,84,Wholesale,Retail,South,1
+191,"Campbell, Martinez and Lucero",Christine Rice,1793 Anderson Avenue,Lawrenceton,NJ,66287,USA,481-618-1035x8128,customer0191@example.com,63684.26,Net 30,2017-04-23,108,Design Trade,Real Estate,Northeast,1
+192,"Andrews, Zavala and Pearson",Elizabeth Clark,241 Omar Trafficway Suite 890,Lake Haleyfurt,OH,49047,USA,001-394-669-9205x565,customer0192@example.com,119537.61,Net 30,2023-06-04,120,Wholesale,Interior Design,Midwest,1
+193,"Moody, Spencer and Lam",Mary Fleming,76610 Duarte Extension Suite 514,New Danielleview,OH,22079,USA,001-741-700-8502x974,customer0193@example.com,140702.57,Net 45,2016-09-28,6,Wholesale,Interior Design,Midwest,1
+194,"Stewart, Vazquez and Cain",Melissa Martin,71608 Wilson Junctions Suite 805,Tanyaside,GA,33482,USA,367.665.4290x84575,customer0194@example.com,109415.99,Net 30,2018-01-22,108,Wholesale,Retail,South,1
+195,"Collins, Wells and Bennett",Jose Vaughan,21361 Walton View,Davisshire,WA,36318,USA,211.405.9742x39374,customer0195@example.com,157175.22,Net 45,2019-10-02,82,Wholesale,Real Estate,West,1
+196,Benjamin-Vaughn,Lindsey Hughes,653 Derrick Court,Lake Rileyberg,WA,00733,USA,+1-657-365-7823x72869,customer0196@example.com,161464.72,Net 30,2024-11-24,108,Wholesale,Retail,West,1
+197,"Nichols, Barnes and Payne",Jeanette Johnson,8436 Jackson Corner Suite 351,Mathewsborough,IL,33552,USA,772-432-3676x09470,customer0197@example.com,47723.11,Net 30,2016-12-12,120,Design Trade,Real Estate,Midwest,1
+198,"White, Fernandez and Carr",Jasmine Schroeder,133 Reeves Summit,East Wendy,TN,85144,USA,+1-410-522-6763,customer0198@example.com,121659.11,Net 45,2021-01-12,107,Wholesale,Office,South,1
+199,Reyes-Barnes,Charles Price,278 Solis Via,Harveyberg,CO,84683,USA,+1-565-770-7657x04313,customer0199@example.com,96540.44,Net 45,2023-10-31,120,Wholesale,Interior Design,West,1
+200,Willis and Sons,Victor Russo,70268 Gomez Mews,South Michael,CO,49684,USA,001-256-341-9332,customer0200@example.com,164634.49,Net 60,2018-01-29,107,Strategic,Real Estate,West,1
+201,Marsh-Johnson,Erin Howard,192 Little Springs Apt. 761,Lake Lisa,MA,95001,USA,925.326.1688x23868,customer0201@example.com,26550.26,Net 30,2021-05-05,84,Small Business,Hospitality,Northeast,1
+202,Brady Group,Robert Morris,103 Jennifer Islands Apt. 677,Lake Jesus,MI,33932,USA,887.841.7237,customer0202@example.com,322236.02,Net 45,2023-12-15,82,Strategic,Interior Design,Midwest,1
+203,Adams-Small,Melinda Boyd,8317 Jimenez Center Suite 729,Benjamintown,PA,78287,USA,+1-413-563-1051x2530,customer0203@example.com,79574.48,Net 30,2021-10-27,82,Design Services,Retail,Northeast,1
+204,Thompson LLC,Angelica Moreno,6339 Sue Route Apt. 436,Pamelahaven,NY,03905,USA,850-338-5947,customer0204@example.com,81825.9,Net 60,2018-02-13,84,Wholesale,Hospitality,Northeast,1
+205,Thomas Ltd,Nancy Garza,8909 Jones Grove,West Tylerborough,WA,78429,USA,001-984-536-8015x52789,customer0205@example.com,305285.22,Net 45,2021-11-23,120,Strategic,Office,West,1
+206,Williams-Torres,Victoria Lester,9426 Payne Well,Blairside,IN,73064,USA,518-874-9835x436,customer0206@example.com,82701.35,Net 60,2017-02-27,107,Wholesale,Real Estate,Midwest,1
+207,Kelly LLC,Karen Baird,019 Chad Creek Apt. 734,South Andrewfort,CA,88132,USA,646-276-2667,customer0207@example.com,32335.29,Net 30,2016-12-08,84,Small Business,Hospitality,West,1
+208,"Salas, King and Lucas",Joshua Lopez,5685 Lisa Cove Suite 895,Port Eric,FL,68513,USA,712.217.6550,customer0208@example.com,166086.8,Net 45,2020-06-03,107,Strategic,Retail,South,1
+209,"Carrillo, Williams and Mejia",Richard Jackson,965 Cody Path Suite 485,New Kristinstad,NJ,95562,USA,+1-946-240-2985x660,customer0209@example.com,114013.15,Net 30,2021-05-22,108,Wholesale,Office,Northeast,1
+210,Buck Group,Stephanie Turner,11035 Jacqueline River,East Brandonville,WI,98967,USA,001-893-469-5101x966,customer0210@example.com,37763.42,Net 60,2018-04-15,120,Design Trade,Retail,Midwest,1
+211,"Wells, Harrison and Todd",Elizabeth Martinez,7820 Joyce Lock Apt. 245,Davidhaven,MI,47859,USA,3328205391,customer0211@example.com,156588.42,Net 30,2024-01-30,6,Wholesale,Office,Midwest,1
+212,Perez LLC,Tom Gonzales,129 Deborah Estates,Traciborough,FL,24799,USA,001-496-615-1053x50980,customer0212@example.com,24053.92,Net 30,2024-01-18,82,Small Business,Retail,South,0
+213,Harrison PLC,Michael Moses,22846 Jason Keys,Higginsborough,OH,92690,USA,+1-444-641-3306x4332,customer0213@example.com,29400.84,Net 30,2017-11-23,6,Small Business,Office,Midwest,0
+214,Robinson Ltd,Terry Wright,2917 Ochoa Throughway Suite 186,North Michaelfurt,AZ,87080,USA,001-854-560-2230x656,customer0214@example.com,76322.8,Net 45,2021-03-11,6,Design Services,Office,West,0
+215,"Green, Pena and Grant",Brian Howell,0165 Greene Island,Port Rebeccaborough,NY,63029,USA,001-681-475-6284x42683,customer0215@example.com,35752.29,Net 60,2019-12-15,108,Small Business,Retail,Northeast,0
+216,Wong-Perkins,Donna Leblanc,927 Barajas Mall,New Cherylbury,WI,97735,USA,+1-538-338-7646x6919,customer0216@example.com,100562.9,Net 30,2024-06-10,107,Design Services,Real Estate,Midwest,0
+217,Mcdonald Inc,Donald Lloyd,95926 Compton Causeway,North Vanessaport,IL,07670,USA,+1-843-889-4206x64463,customer0217@example.com,129153.97,Net 30,2019-10-03,108,Wholesale,Retail,Midwest,0
+218,"Long, Ford and Miller",Jose Lowery,60419 Perez Parkway,Jonesville,NY,81790,USA,7016349110,customer0218@example.com,345037.46,Net 45,2022-03-14,108,Strategic,Interior Design,Northeast,0
+219,Sanchez-Lambert,Alec Bailey,2328 Steven Junctions Apt. 608,Cameronshire,TN,52468,USA,001-578-375-3739,customer0219@example.com,329679.38,Net 45,2017-03-25,6,Strategic,Hospitality,South,0
+220,Smith Ltd,Shane Jackson,86341 Mary Road,Dustinfurt,MA,87739,USA,(502)517-7252,customer0220@example.com,30884.63,Net 30,2020-04-03,107,Small Business,Hospitality,Northeast,0

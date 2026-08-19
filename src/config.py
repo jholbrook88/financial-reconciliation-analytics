@@ -22,10 +22,9 @@ class ReconciliationConfig:
 
 def default_config() -> ReconciliationConfig:
     project_dir = Path(__file__).resolve().parents[1]
-    portfolio_dir = project_dir.parent
     return ReconciliationConfig(
         project_dir=project_dir,
-        source_dir=portfolio_dir / "CharlesRiver_csv",
+        source_dir=project_dir / "data" / "charles_river",
         bank_statement_path=project_dir
         / "data"
         / "sample"

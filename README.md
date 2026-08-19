@@ -51,22 +51,12 @@ The program tries three rules in order:
 Once a transaction is matched, it cannot be used again. This helps prevent a
 duplicate transaction from being treated as a valid match.
 
-## Data setup
+## Data
 
 This project uses the
 [Charles River Accounting Dataset](https://charlesriver.accountinganalyticshub.com/).
-Download the CSV package from its
-[download page](https://charlesriver.accountinganalyticshub.com/docs/downloads).
-
-By default, the folders should look like this:
-
-```text
-Portfolio/
-├── CharlesRiver_csv/
-└── financial-reconciliation-analytics/
-```
-
-The simulated bank statement is already included in `data/sample/`.
+The tables needed for this project and the simulated bank statement are included
+in the `data` folder. The source and license details are in `DATA_LICENSE.md`.
 
 ## Running the project
 
@@ -77,12 +67,6 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 python -m src.main
-```
-
-If your Charles River folder is somewhere else:
-
-```powershell
-python -m src.main --source-dir "C:\path\to\CharlesRiver_csv"
 ```
 
 The finished files are saved in `output/`:

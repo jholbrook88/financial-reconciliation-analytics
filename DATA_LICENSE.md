@@ -12,9 +12,10 @@ Copyright (c) 2026 Mauricio Codesso
 
 ## Changes made for this project
 
-The original accounting data was used to create a simulated bank statement
-and cash-ledger extracts for a bank-reconciliation project. Four bank-side
-test transactions were added to the simulated statement.
+The `data/charles_river` folder includes nine original lookup tables and a
+smaller version of `GLEntry.csv` containing the 2,320 cash-account rows used by
+this project. The original data was also used to create the simulated bank
+statement. Four bank-side test transactions were added to that statement.
 
 These adapted data files are also distributed under CC BY-SA 4.0.
 
