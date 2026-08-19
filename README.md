@@ -53,27 +53,6 @@ The program tries three rules in order:
 Once a transaction is matched, it cannot be used again. This helps prevent a
 duplicate transaction from being treated as a valid match.
 
-## Project layout
-
-```text
-financial-reconciliation-analytics/
-├── data/sample/        Simulated bank statement
-├── output/             Files created when the program runs
-├── reports/            Summary of the results
-├── src/                Python code
-├── tests/              Automated tests
-└── requirements.txt    Python packages
-```
-
-The main Python files are:
-
-- `config.py` — dates, file locations, and matching settings
-- `data_loading.py` — loads and checks the bank statement
-- `ledger_extract.py` — builds the cash-ledger file
-- `reconciliation.py` — contains the matching rules
-- `reporting.py` — saves the results
-- `main.py` — runs the full process
-
 ## Data setup
 
 This project uses the
@@ -116,32 +95,24 @@ The finished files are saved in `output/`:
 - `ledger_exceptions.csv`
 - `reconciliation_summary.json`
 
-## Tests
+## Checking the matching rules
 
 ```powershell
 python -m unittest discover -s tests -v
 ```
 
-GitHub Actions also runs the tests automatically.
-
 ## What I learned
 
 This project helped me connect my accounting education and banking experience
-with Python. I practiced cleaning financial data, designing transaction-matching
-rules, preventing duplicate matches, and creating exception reports for human
-review.
-
-It also showed me that a high match rate does not automatically mean a
-reconciliation is complete. Unmatched items still need to be reviewed because
-they may represent timing differences, missing entries, or errors.
+with Python. I practiced cleaning financial data, matching transactions without
+using the same ledger entry twice, and separating items that need review. I also
+learned that a high match rate does not mean the reconciliation is finished.
 
 ## Limitations
 
-This is a portfolio project built with fictional data, and most transactions
-match using exact references. A future version could be tested with messier data
-and include confidence scores, stronger duplicate detection, and a dashboard for
-reviewing exceptions. The results still need human review, and the project does
-not represent a real audit or a production accounting system.
+This is a learning project using fictional data, and most transactions match by
+reference number. Real data would be messier, and the unmatched items would still
+need to be reviewed by a person.
 
 ## Author
 
