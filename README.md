@@ -124,11 +124,24 @@ python -m unittest discover -s tests -v
 
 GitHub Actions also runs the tests automatically.
 
+## What I learned
+
+This project helped me connect my accounting education and banking experience
+with Python. I practiced cleaning financial data, designing transaction-matching
+rules, preventing duplicate matches, and creating exception reports for human
+review.
+
+It also showed me that a high match rate does not automatically mean a
+reconciliation is complete. Unmatched items still need to be reviewed because
+they may represent timing differences, missing entries, or errors.
+
 ## Limitations
 
-This is a portfolio project built with synthetic data. The matching results
-still need accounting review, especially the ledger exceptions. The project
-does not represent a real audit or a production accounting system.
+This is a portfolio project built with fictional data, and most transactions
+match using exact references. A future version could be tested with messier data
+and include confidence scores, stronger duplicate detection, and a dashboard for
+reviewing exceptions. The results still need human review, and the project does
+not represent a real audit or a production accounting system.
 
 ## Author
 
