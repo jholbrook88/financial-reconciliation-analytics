@@ -133,7 +133,5 @@ does not represent a real audit or a production accounting system.
 ## Author
 
 Jason Holbrook  
-Accounting | Banking | Data Analytics  
 [LinkedIn](https://www.linkedin.com/in/jholbrook88) ·
 [GitHub](https://github.com/jholbrook88)
-
