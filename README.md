@@ -40,8 +40,6 @@ The ledger exceptions are transactions that were recorded in the ledger but
 did not appear on the June bank statement. Some may be normal timing items,
 such as outstanding checks or deposits in transit. They still require review.
 
-More detail is available in [reports/RESULTS.md](reports/RESULTS.md).
-
 ## How matching works
 
 The program tries three rules in order:
@@ -94,12 +92,6 @@ The finished files are saved in `output/`:
 - `bank_exceptions.csv`
 - `ledger_exceptions.csv`
 - `reconciliation_summary.json`
-
-## Checking the matching rules
-
-```powershell
-python -m unittest discover -s tests -v
-```
 
 ## What I learned
 
